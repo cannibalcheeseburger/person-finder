@@ -1,0 +1,1605 @@
+,Name,Branch,Roll No,Year,City,State
+0,Chetan Sharma,CSE,195001,1 year,District = Bilaspur,State = Himachal Pradesh
+1,Aamulya Saxena,CSE,195002,1 year,District = Shimla,State = Himachal Pradesh
+2,Shivankit Raj Dhiman,CSE,195003,1 year,District = Hamirpur,State = Himachal Pradesh
+3,Kunal Chandel,CSE,195004,1 year,District = Mandi,State = Himachal Pradesh
+4,Neetan Kumar,CSE,195005,1 year,District = Kangra,State = Himachal Pradesh
+5,Spriha Gautam,CSE,195006,1 year,District = Kangra,State = Himachal Pradesh
+6,Avishrant Sharma,CSE,195008,1 year,District = Una,State = Himachal Pradesh
+7,Vaibhav Kashyap,CSE,195010,1 year,District = Shimla,State = Himachal Pradesh
+8,Aryan Verma,CSE,195011,1 year,District = Pilibhit,State = Uttar Pradesh
+9,Prateek Thakur,CSE,195012,1 year,District = Chamba,State = Himachal Pradesh
+10,Induja Kala,CSE,195013,1 year,District = Solan,State = Himachal Pradesh
+11,Shaurya Sharma,CSE,195014,1 year,District = Shimla,State = Himachal Pradesh
+12,Riya Sharma,CSE,195015,1 year,District = Hamirpur,State = Himachal Pradesh
+13,Gargy Dhiman,CSE,195016,1 year,District = Mandi,State = Himachal Pradesh
+14,Pushpdeep Singh,CSE,195017,1 year,District = Kangra,State = Himachal Pradesh
+15,Prerna,CSE,195020,1 year,District = Kangra,State = Himachal Pradesh
+16,Shiraaz Stan,CSE,195021,1 year,District = Shimla,State = Himachal Pradesh
+17,Aryan Bhardwaj,CSE,195022,1 year,District = Hamirpur,State = Himachal Pradesh
+18,Nitin Chandel,CSE,195024,1 year,District = Hamirpur,State = Himachal Pradesh
+19,Aman Chauhan,CSE,195025,1 year,District = Bilaspur,State = Himachal Pradesh
+20,Neelam Mandhotra,CSE,195026,1 year,District = Mandi,State = Himachal Pradesh
+21,Nishant Chandla,CSE,195027,1 year,District = Una,State = Himachal Pradesh
+22,Khushwant Kaswan,CSE,195030,1 year,District = Nagaur,State = Rajasthan
+23,Lavanya,CSE,195031,1 year,District = Mandi,State = Himachal Pradesh
+24,Shekhar Motiyan,CSE,195032,1 year,District = Shimla,State = Himachal Pradesh
+25,Rahul,CSE,195033,1 year,District = Una,State = Himachal Pradesh
+26,Shwetal Soni,CSE,195034,1 year,District = Solan,State = Himachal Pradesh
+27,Gautam Verma,CSE,195036,1 year,District = Faridabad,State = Haryana
+28,Atul Sen,CSE,195037,1 year,District = Hamirpur,State = Himachal Pradesh
+29,Khem Singh,CSE,195038,1 year,District = Mandi,State = Himachal Pradesh
+30,Devraj Thakur,CSE,195040,1 year,District = Bilaspur,State = Himachal Pradesh
+31,Anubhav Kumar Rao,CSE,195041,1 year,District = Solan,State = Himachal Pradesh
+32,Sachin,CSE,195042,1 year,District = Solan,State = Himachal Pradesh
+33,Karan Sharma,CSE,195043,1 year,District = Hamirpur,State = Himachal Pradesh
+34,Nikhil Sharma,CSE,195044,1 year,District = Kullu,State = Himachal Pradesh
+35,Riya Chauhan,CSE,195045,1 year,District = Sirmaur,State = Himachal Pradesh
+36,Sachin,CSE,195046,1 year,District = Una,State = Himachal Pradesh
+37,Vaishnavi,CSE,195047,1 year,District = Saharanpur,State = Uttar Pradesh
+38,Dhruv Panwar,CSE,195048,1 year,District = Solan,State = Himachal Pradesh
+39,Anupam Kumar,CSE,195050,1 year,District = East Champaran,State = Bihar
+40,Deepak Thakur,CSE,195051,1 year,District = Mandi,State = Himachal Pradesh
+41,Dechan Dolkar,CSE,195052,1 year,District = Leh,State = Ladakh
+42,Gopal Goyal,CSE,195056,1 year,District = Ganganagar,State = Rajasthan
+43,Manav Doda,CSE,195057,1 year,District = Fazilka,State = Punjab
+44,Akshat Sharma,CSE,195058,1 year,District = Mandi,State = Himachal Pradesh
+45,Nitin Bedi,CSE,195059,1 year,District = Chittorgarh,State = Rajasthan
+46,Shubham Goyal,CSE,195060,1 year,District = Hisar,State = Haryana
+47,Khushi Mittal,CSE,195061,1 year,District = Firozabad,State = Uttar Pradesh
+48,Priyanka Dhayal,CSE,195062,1 year,District = Jhunjhunu,State = Rajasthan
+49,Satyam Kumar,CSE,195063,1 year,District = Purnia,State = Bihar
+50,Ayush Tripathi,CSE,195064,1 year,District = Mainpuri,State = Uttar Pradesh
+51,Monika Rajput,CSE,195065,1 year,District = Solan,State = Himachal Pradesh
+52,Mansi Garg,CSE,195066,1 year,District = Fazilka,State = Punjab
+53,Ritesh Kumar,CSE,195069,1 year,District = Darjeeling,State = West Bengal
+54,Tushar Dupga,CSE,195070,1 year,District = Hanumangarh,State = Rajasthan
+55,Akshay Sharma,CSE,195071,1 year,District = Hamirpur,State = Himachal Pradesh
+56,Harshit,CSE,195073,1 year,District = Una,State = Himachal Pradesh
+57,Ujjwal Borasi,CSE,195074,1 year,District = Hoshangabad,State = Madhya Pradesh
+58,Rushikesh Dange,CSE,195077,1 year,District = Solapur,State = Maharashtra
+59,Shivam Pratap Singh,CSE,195079,1 year,District = Firozabad,State = Uttar Pradesh
+60,Tushaar Gusain,CSE,195080,1 year,District = Dehradun,State = Uttarakhand
+61,Shreyansh Jain,CSE,195081,1 year,District = Gwalior,State = Madhya Pradesh
+62,Yash Upadhyay,CSE,195082,1 year,District = Moradabad,State = Uttar Pradesh
+63,Lavisha Bhambri,CSE,195084,1 year,District = Faridabad,State = Haryana
+64,Mahendra Singh,CSE,195085,1 year,District = Bharatpur,State = Rajasthan
+65,Mayank Thakur,CSE,195086,1 year,District = Bilaspur,State = Himachal Pradesh
+66,Rohit Kumar,CSE,195087,1 year,District = Patna,State = Bihar
+67,Mohd Salmaan,CSE,195088,1 year,District = Samba,State = Jammu and Kashmir
+68,Rohit Kumar Goyal,CSE,195089,1 year,District = Karauli,State = Rajasthan
+69,Aman Kumar,CSE,195090,1 year,District = Sitapur,State = Uttar Pradesh
+70,Prakhar Rathore,CSE,195110,1 year,District = Bareilly,State = Uttar Pradesh
+71,Tamanna,ECE,194001,1 year,District = Kangra,State = Himachal Pradesh
+72,Mehak,ECE,194002,1 year,District = Hamirpur,State = Himachal Pradesh
+73,Sahil Kumar,ECE,194005,1 year,District = Kangra,State = Himachal Pradesh
+74,Ritik Kundlas,ECE,194006,1 year,District = Sirmaur,State = Himachal Pradesh
+75,Parth Pant,ECE,194007,1 year,District = Solan,State = Himachal Pradesh
+76,Nandini Sharma,ECE,194008,1 year,District = Shimla,State = Himachal Pradesh
+77,Gautam Rana,ECE,194009,1 year,District = Kangra,State = Himachal Pradesh
+78,Abnish Dhiman,ECE,194010,1 year,District = Hamirpur,State = Himachal Pradesh
+79,Varnika Awasthy,ECE,194011,1 year,District = Solan,State = Himachal Pradesh
+80,Rishav  Choudhary,ECE,194012,1 year,District = Kangra,State = Himachal Pradesh
+81,Aastik Agnihotri,ECE,194017,1 year,District = Hamirpur,State = Himachal Pradesh
+82,Priyan Sood,ECE,194018,1 year,District = Mandi,State = Himachal Pradesh
+83,Abhay Kahol,ECE,194019,1 year,District = Una,State = Himachal Pradesh
+84,Gaurav,ECE,194020,1 year,District = Shimla,State = Himachal Pradesh
+85,Isha Sharma,ECE,194022,1 year,District = Chamba,State = Himachal Pradesh
+86,Bipul Kumar,ECE,194024,1 year,District = Una,State = Himachal Pradesh
+87,Abhimanyu Papta,ECE,194026,1 year,District = Shimla,State = Himachal Pradesh
+88,Sahil Chaudhary,ECE,194029,1 year,District = Shimla,State = Himachal Pradesh
+89,Shubham Saini,ECE,194032,1 year,District = Una,State = Himachal Pradesh
+90,Tenzin Dolma,ECE,194033,1 year,District = Kullu,State = Himachal Pradesh
+91,Ajay Saini,ECE,194035,1 year,District = Una,State = Himachal Pradesh
+92,Rajat,ECE,194036,1 year,District = Sirmaur,State = Himachal Pradesh
+93,Utsav Kumar,ECE,194037,1 year,District = Meerut,State = Uttar Pradesh
+94,Shivam Bhatia,ECE,194039,1 year,District = Kangra,State = Himachal Pradesh
+95,Archana Verma,ECE,194040,1 year,District = Azamgarh,State = Uttar Pradesh
+96,Ankita,ECE,194041,1 year,District = Hamirpur,State = Himachal Pradesh
+97,Shawak Choudhary,ECE,194043,1 year,District = Hamirpur,State = Himachal Pradesh
+98,Divya Reddy Nagavelli,ECE,194044,1 year,District = Warangal Urban,State = Telangana
+99,Patil Varala Harsha Vardhan Reddy,ECE,194045,1 year,District = Anantapur,State = Andhra Pradesh
+100,Lakshya Sharma,ECE,194047,1 year,District = Hamirpur,State = Himachal Pradesh
+101,Aditya Arora,ECE,194048,1 year,District = Gurdaspur,State = Punjab
+102,Vaishnavi Sood,ECE,194049,1 year,District = Kullu,State = Himachal Pradesh
+103,Ayush Verma,ECE,194051,1 year,District = Kanpur Nagar,State = Uttar Pradesh
+104,Abhishek,ECE,194053,1 year,District = Hamirpur,State = Himachal Pradesh
+105,Dhananjay Ghuge,ECE,194054,1 year,District = Parbhani,State = Maharashtra
+106,Hrishav Raj,ECE,194055,1 year,District = Patna,State = Bihar
+107,Ankit Kumar,ECE,194056,1 year,District = Almora,State = Uttarakhand
+108,Baibhav,ECE,194058,1 year,District = Mau,State = Uttar Pradesh
+109,Monty Gupta,ECE,194059,1 year,District = Bulandshahr,State = Uttar Pradesh
+110,Swagat Raj,ECE,194061,1 year,District = Agra,State = Uttar Pradesh
+111,Parth Saini,ECE,194064,1 year,District = Solan,State = Himachal Pradesh
+112,N.RANGA Sai Prasad,ECE,194066,1 year,District = Anantapur,State = Andhra Pradesh
+113,Divyansh Singh Pangtey,ECE,194067,1 year,District = Dehradun,State = Uttarakhand
+114,Narender Kumar Sharma,ECE,194068,1 year,District = Agra,State = Uttar Pradesh
+115,Chitra Bhartiya,ECE,194071,1 year,District = Gautam Buddha Nagar,State = Uttar Pradesh
+116,Aaditya Prakash,ECE,194072,1 year,District = Aligarh,State = Uttar Pradesh
+117,Abhinav Thakur,ECE,194073,1 year,District = Hamirpur,State = Himachal Pradesh
+118,Vivek Khandelwal,ECE,194074,1 year,District = Dausa,State = Rajasthan
+119,Kana Manisha,ECE,194075,1 year,District = Anantapur,State = Andhra Pradesh
+120,Sakshat Varshney,ECE,194077,1 year,District = Budaun,State = Uttar Pradesh
+121,Kanchi Sai Charan,ECE,194078,1 year,District = Guntur,State = Andhra Pradesh
+122,Rahul Gupta,ECE,194079,1 year,District = Ballia,State = Uttar Pradesh
+123,Aditi Agarwal,ECE,194080,1 year,District = Udaipur,State = Rajasthan
+124,Siddhartha Singh,ECE,194081,1 year,District = Ballia,State = Uttar Pradesh
+125,Suryansh Dwivedi,ECE,194082,1 year,District = Azamgarh,State = Uttar Pradesh
+126,Shivangi Rana,ECE,194083,1 year,District = Patiala,State = Punjab
+127,Abhinav Dwivedi,ECE,194084,1 year,District = Kota,State = Rajasthan
+128,Nabin Nath,ECE,194085,1 year,District = Hojai,State = Assam
+129,Rohit Kumar,ECE,194086,1 year,District = Ballia,State = Uttar Pradesh
+130,Kanishkaditya Shukla,ECE,194087,1 year,District = Gwalior,State = Madhya Pradesh
+131,Amara Prasanna,ECE,194088,1 year,District = Prakasam,State = Andhra Pradesh
+132,Saurabh,ECE,194089,1 year,District = Mandi,State = Himachal Pradesh
+133,Meka SAINADH.,ECE,194093,1 year,District = Mahabubabad,State = Telangana
+134,Bandi Shirish Reddy,ECE,194094,1 year,District = Mahabubabad,State = Telangana
+135,Ekansh Dhawan,ECE,194096,1 year,District = Mandi,State = Himachal Pradesh
+136,Manoj Kumar Pilania,ECE,194097,1 year,District = Churu,State = Rajasthan
+137,Anurag Thakur,ECE,194098,1 year,District = Hamirpur,State = Himachal Pradesh
+138,Vaibhav Pathak,ECE,194099,1 year,District = Etawah,State = Uttar Pradesh
+139,Sweety Kumari,ECE,194103,1 year,District = Patna,State = Bihar
+140,Animesh Barnyal,ECE,194105,1 year,District = Kangra,State = Himachal Pradesh
+141,Samarth Aggarwal,EE,192001,1 year,District = Shimla,State = Himachal Pradesh
+142,Sakshi,EE,192002,1 year,District = Kangra,State = Himachal Pradesh
+143,Akshit Choudhary,EE,192003,1 year,District = Kangra,State = Himachal Pradesh
+144,Bhaskar,EE,192004,1 year,District = Mandi,State = Himachal Pradesh
+145,Kushal,EE,192005,1 year,District = Una,State = Himachal Pradesh
+146,Yugank Sharma,EE,192006,1 year,District = Shimla,State = Himachal Pradesh
+147,Prateek Srivastava,EE,192007,1 year,District = Chamba,State = Himachal Pradesh
+148,Meghna Singh,EE,192008,1 year,District = Kangra,State = Himachal Pradesh
+149,Ishita Sharma,EE,192010,1 year,District = Shimla,State = Himachal Pradesh
+150,Mohit Kumar,EE,192011,1 year,District = Solan,State = Himachal Pradesh
+151,Ashish Pathanai,EE,192012,1 year,District = Hamirpur,State = Himachal Pradesh
+152,Atharv Sood,EE,192013,1 year,District = Shimla,State = Himachal Pradesh
+153,Sidharth Saini,EE,192015,1 year,District = Mandi,State = Himachal Pradesh
+154,Yamini Sharma,EE,192016,1 year,District = Shimla,State = Himachal Pradesh
+155,Samarjeet Singh Kashyap,EE,192017,1 year,District = Solan,State = Himachal Pradesh
+156,Avinash Kumar,EE,192018,1 year,District = Mandi,State = Himachal Pradesh
+157,Aditya Kumar,EE,192019,1 year,District = Hamirpur,State = Himachal Pradesh
+158,Parsi Choudhary,EE,192020,1 year,District = Kangra,State = Himachal Pradesh
+159,Anuj Prashar,EE,192021,1 year,District = Hamirpur,State = Himachal Pradesh
+160,Abhay Choudhary,EE,192022,1 year,District = Kangra,State = Himachal Pradesh
+161,Akshat Bhardwaj,EE,192023,1 year,District = Hamirpur,State = Himachal Pradesh
+162,Rohit Kumar,EE,192024,1 year,District = Una,State = Himachal Pradesh
+163,Rahul,EE,192025,1 year,District = Mandi,State = Himachal Pradesh
+164,Vibhu Mahala,EE,192026,1 year,District = Jhunjhunu,State = Rajasthan
+165,Ankita Kumari,EE,192027,1 year,District = Kangra,State = Himachal Pradesh
+166,Manan Pathania,EE,192028,1 year,District = Shimla,State = Himachal Pradesh
+167,Saksham Syal,EE,192029,1 year,District = Kangra,State = Himachal Pradesh
+168,Mohit Sinhotra,EE,192030,1 year,District = Kangra,State = Himachal Pradesh
+169,Rohit Sharma,EE,192031,1 year,District = Mandi,State = Himachal Pradesh
+170,Himanshu Shalta,EE,192032,1 year,District = Shimla,State = Himachal Pradesh
+171,Priyanshu,EE,192034,1 year,District = Shimla,State = Himachal Pradesh
+172,Dhruv Kumar Singh,EE,192035,1 year,District = Chamba,State = Himachal Pradesh
+173,Hariom  Gurjar,EE,192036,1 year,District = Bundi,State = Rajasthan
+174,Nikhil Patial,EE,192037,1 year,District = Hamirpur,State = Himachal Pradesh
+175,Priyanshu Kaushal,EE,192038,1 year,District = Mandi,State = Himachal Pradesh
+176,Aanchal,EE,192039,1 year,District = Kinnaur,State = Himachal Pradesh
+177,Kunal Thakur,EE,192040,1 year,District = Hamirpur,State = Himachal Pradesh
+178,Ritika Lohia,EE,192042,1 year,District = Hanumangarh,State = Rajasthan
+179,Jatin Bansal,EE,192043,1 year,District = Jaipur,State = Rajasthan
+180,Ajay Kumar,EE,192045,1 year,District = Mandi,State = Himachal Pradesh
+181,Dheeraj Kumar,EE,192046,1 year,District = Sirmaur,State = Himachal Pradesh
+182,Lokesh Maurya,EE,192048,1 year,District = Jaipur,State = Rajasthan
+183,Abhay Dhaloria,EE,192049,1 year,District = Kangra,State = Himachal Pradesh
+184,Abhishek Rana,EE,192050,1 year,District = Mandi,State = Himachal Pradesh
+185,Dipesh Kumar,EE,192051,1 year,District = Alwar,State = Rajasthan
+186,Arshiya Thakur,EE,192052,1 year,District = Kullu,State = Himachal Pradesh
+187,Ajit Singh Rawat,EE,192055,1 year,District = Dehradun,State = Uttarakhand
+188,Upendra Dwivedi,EE,192056,1 year,District = Unnao,State = Uttar Pradesh
+189,Prakhar Pratyush,EE,192057,1 year,District = Saran,State = Bihar
+190,Abhinav Kumar Paliwal,EE,192058,1 year,District = Kanpur Dehat,State = Uttar Pradesh
+191,Gaurav Bhardwaj,EE,192059,1 year,District = Solan,State = Himachal Pradesh
+192,Hemendra Kumar,EE,192060,1 year,District = Mathura,State = Uttar Pradesh
+193,Rishika,EE,192061,1 year,District = Kullu,State = Himachal Pradesh
+194,Namrata Yadav,EE,192062,1 year,District = Meerut,State = Uttar Pradesh
+195,Devendra Kumar Mina,EE,192063,1 year,District = Dausa,State = Rajasthan
+196,Khwab Kalra,EE,192064,1 year,District = Patiala,State = Punjab
+197,Parv Sharma,EE,192065,1 year,District = Hamirpur,State = Himachal Pradesh
+198,Abhishek Chaudhary,EE,192066,1 year,District = Shimla,State = Himachal Pradesh
+199,Abhishek Singh,EE,192067,1 year,District = Ayodhya,State = Uttar Pradesh
+200,Amit Kumar Jat,EE,192068,1 year,District = Jaipur,State = Rajasthan
+201,Paras Verma,EE,192069,1 year,District = Solan,State = Himachal Pradesh
+202,Akash Singh,EE,192070,1 year,District = Surajpur,State = Chhattisgarh
+203,Aalok Kumar,EE,192071,1 year,District = Vaishali,State = Bihar
+204,Saurabh Chouhan,EE,192072,1 year,District = Jodhpur,State = Rajasthan
+205,Dhruv Aggarwal,EE,192073,1 year,District = Saharanpur,State = Uttar Pradesh
+206,Govind Raj Meena,EE,192075,1 year,District = Kota,State = Rajasthan
+207,Priyanka Mandal,EE,192078,1 year,District = Ratlam,State = Madhya Pradesh
+208,Vandna Thakur,EE,192080,1 year,District = Mandi,State = Himachal Pradesh
+209,Uditee Singh,EE,192082,1 year,District = Meerut,State = Uttar Pradesh
+210,Vivek Sharma,EE,192083,1 year,District = Jaipur,State = Rajasthan
+211,Umang Niranjan,EE,192084,1 year,District = Jalaun,State = Uttar Pradesh
+212,Tavishi,EE,192085,1 year,District = Kullu,State = Himachal Pradesh
+213,Rahul Gill,EE,192087,1 year,District = Hanumangarh,State = Rajasthan
+214,Rijul Yadav,EE,192088,1 year,District = Lucknow,State = Uttar Pradesh
+215,Nehal Singhal,EE,192089,1 year,District = Ghaziabad,State = Uttar Pradesh
+216,Shivangi Pokhriyal,EE,192090,1 year,District = Sirmaur,State = Himachal Pradesh
+217,Kanika Dhiman,CHE,197025,1 year,District = Una,State = Himachal Pradesh
+218,Saksham,ME,193003,1 year,District = Kangra,State = Himachal Pradesh
+219,Abhishek,ME,193004,1 year,District = Kangra,State = Himachal Pradesh
+220,Pushkal Sharma,ME,193005,1 year,District = Kangra,State = Himachal Pradesh
+221,Sourabh  Kaundal,ME,193006,1 year,District = Una,State = Himachal Pradesh
+222,Arsh Aggarwal,ME,193007,1 year,District = Solan,State = Himachal Pradesh
+223,Areen Mukamia,ME,193008,1 year,District = Kangra,State = Himachal Pradesh
+224,Vishwas Kumar,ME,193009,1 year,District = Hamirpur,State = Himachal Pradesh
+225,Deepak Pathania,ME,193010,1 year,District = Kangra,State = Himachal Pradesh
+226,Aayushi Puri,ME,193013,1 year,District = Shimla,State = Himachal Pradesh
+227,Aviral Mahajan,ME,193014,1 year,District = Shimla,State = Himachal Pradesh
+228,Lakhmi Kumar,ME,193016,1 year,District = Kangra,State = Himachal Pradesh
+229,Devesh Rana,ME,193017,1 year,District = Una,State = Himachal Pradesh
+230,Manisha Thakur,ME,193018,1 year,District = Chamba,State = Himachal Pradesh
+231,Pritam Kumawat,ME,193019,1 year,District = Tonk,State = Rajasthan
+232,Gaurav Kumar,ME,193020,1 year,District = Dholpur,State = Rajasthan
+233,Aman Choudhary,ME,193021,1 year,District = Una,State = Himachal Pradesh
+234,Akanksha Mehra,ME,193022,1 year,District = Kangra,State = Himachal Pradesh
+235,Jai Gupta,ME,193024,1 year,District = Mandi,State = Himachal Pradesh
+236,Parshant Kaushal,ME,193026,1 year,District = Una,State = Himachal Pradesh
+237,Prabal Sharma,ME,193028,1 year,District = Una,State = Himachal Pradesh
+238,Ashish Kumar,ME,193029,1 year,District = Jalandhar,State = Punjab
+239,Neha Sharma,ME,193030,1 year,District = Shimla,State = Himachal Pradesh
+240,Sakshi Rani Chauhan,ME,193033,1 year,District = Shimla,State = Himachal Pradesh
+241,Aryan Mahajan,ME,193034,1 year,District = Chamba,State = Himachal Pradesh
+242,Arjun Singh,ME,193035,1 year,District = Mandi,State = Himachal Pradesh
+243,Shakshika Tiwari,ME,193036,1 year,District = Lucknow,State = Uttar Pradesh
+244,Nikunj Bhardwaj,ME,193039,1 year,District = Mandi,State = Himachal Pradesh
+245,Arima Chaudhary,ME,193040,1 year,District = Hamirpur,State = Himachal Pradesh
+246,Virender Kumar,ME,193041,1 year,District = Shimla,State = Himachal Pradesh
+247,Pranjali Singh,ME,193042,1 year,District = Ahmedabad,State = Gujarat
+248,Tejal Poonia,ME,193043,1 year,District = Jhunjhunu,State = Rajasthan
+249,Harshit Sharma,ME,193045,1 year,District = Una,State = Himachal Pradesh
+250,Paras Aggarwal,ME,193049,1 year,District = Solan,State = Himachal Pradesh
+251,Abhineet Barwal,ME,193051,1 year,District = Kangra,State = Himachal Pradesh
+252,Ankit Shukla,ME,193052,1 year,District = Meerut,State = Uttar Pradesh
+253,Abhishek Vashisht,ME,193053,1 year,District = Bilaspur,State = Himachal Pradesh
+254,Pratham Sharma,ME,193055,1 year,District = Una,State = Himachal Pradesh
+255,Himanshu Dwivedi,ME,193056,1 year,District = Prayagraj,State = Uttar Pradesh
+256,Dibakar Chaudhary,ME,193058,1 year,District = Darjeeling,State = West Bengal
+257,Anshika Arya,ME,193060,1 year,District = Gaya,State = Bihar
+258,Abhay Chaudhary,ME,193061,1 year,District = Kangra,State = Himachal Pradesh
+259,Shivam Chahar,ME,193062,1 year,District = Agra,State = Uttar Pradesh
+260,Vishwajeet Kumar,ME,193063,1 year,District = Bhojpur,State = Bihar
+261,Shubham Singh,ME,193066,1 year,District = Bareilly,State = Uttar Pradesh
+262,Kalpit Sharma,ME,193067,1 year,District = Chamba,State = Himachal Pradesh
+263,Kartik Kadel,ME,193070,1 year,District = Hyderabad,State = Telangana
+264,Lohit Sharma,ME,193071,1 year,District = Solan,State = Himachal Pradesh
+265,Ashish Patel,ME,193072,1 year,District = Jalaun,State = Uttar Pradesh
+266,Siddharth Bansal,ME,193073,1 year,District = Saharanpur,State = Uttar Pradesh
+267,Samriddh Singh,ME,193074,1 year,District = Dehradun,State = Uttarakhand
+268,Vijay Bhatia,ME,193075,1 year,District = Sirmaur,State = Himachal Pradesh
+269,Deepam Shyam,ME,193076,1 year,District = Satna,State = Madhya Pradesh
+270,Shreya Dubey,ME,193080,1 year,District = Hooghly,State = West Bengal
+271,Pooja Meena,ME,193082,1 year,District = Jaipur,State = Rajasthan
+272,Kunal Kaushik,ME,193083,1 year,District = Dehradun,State = Uttarakhand
+273,Pratham Tripathi,ME,193085,1 year,District = Lucknow,State = Uttar Pradesh
+274,Aayush Dubey,ME,193086,1 year,District = Vadodara,State = Gujarat
+275,Nirmal Singh,ME,193088,1 year,District = Solan,State = Himachal Pradesh
+276,Pradeep Rathor,ME,193110,1 year,District = Kota,State = Rajasthan
+277,Nikhil Verma,CE,191002,1 year,District = Chamba,State = Himachal Pradesh
+278,Akanksha,CE,191003,1 year,District = Kangra,State = Himachal Pradesh
+279,Yajat Sharma,CE,191005,1 year,District = Mandi,State = Himachal Pradesh
+280,Amit Dhiman,CE,191006,1 year,District = Hamirpur,State = Himachal Pradesh
+281,Rajat Sharma,CE,191007,1 year,District = Chamba,State = Himachal Pradesh
+282,Shivansh Gupta,CE,191008,1 year,District = Kullu,State = Himachal Pradesh
+283,Sidharth Thakur,CE,191009,1 year,District = Shimla,State = Himachal Pradesh
+284,Akshit Kaundal,CE,191010,1 year,District = Kangra,State = Himachal Pradesh
+285,Harish Chander,CE,191011,1 year,District = Kinnaur,State = Himachal Pradesh
+286,Ayush Rana,CE,191012,1 year,District = Hamirpur,State = Himachal Pradesh
+287,Anshul Choudhary,CE,191014,1 year,District = Kangra,State = Himachal Pradesh
+288,Riya Dhiman,CE,191015,1 year,District = Kangra,State = Himachal Pradesh
+289,Lalit Thakur,CE,191016,1 year,District = Kullu,State = Himachal Pradesh
+290,Shubham,CE,191018,1 year,District = Kangra,State = Himachal Pradesh
+291,Akshay Thakur,CE,191019,1 year,District = Mandi,State = Himachal Pradesh
+292,Rohit Kumar,CE,191020,1 year,District = Una,State = Himachal Pradesh
+293,Tenzin Chundui,CE,191021,1 year,District = Lahaul and Spiti,State = Himachal Pradesh
+294,Shashwat Sharma,CE,191022,1 year,District = Kangra,State = Himachal Pradesh
+295,Ramansh Parmar,CE,191025,1 year,District = Hamirpur,State = Himachal Pradesh
+296,Bhavna,CE,191033,1 year,District = Kangra,State = Himachal Pradesh
+297,Manvendra Singh Chahuhan,CE,191034,1 year,District = Dungarpur,State = Rajasthan
+298,Hritvik Kashyap,CE,191035,1 year,District = Bilaspur,State = Himachal Pradesh
+299,Sandesh Kumar,CE,191037,1 year,District = Mandi,State = Himachal Pradesh
+300,Ayushi Sharma,CE,191039,1 year,District = Solan,State = Himachal Pradesh
+301,Abhishek Bainada,CE,191041,1 year,District = Jaipur,State = Rajasthan
+302,Abhinav Verma,CE,191043,1 year,District = Mandi,State = Himachal Pradesh
+303,Poornima Pandey,CE,191045,1 year,District = Basti,State = Uttar Pradesh
+304,Ayush Saini,CE,191047,1 year,District = Kapurthala,State = Punjab
+305,Yuvam Sagar,CE,191048,1 year,District = Sirmaur,State = Himachal Pradesh
+306,Ankita,CE,191050,1 year,District = Sikar,State = Rajasthan
+307,Sidharth,CE,191051,1 year,District = Kangra,State = Himachal Pradesh
+308,Saurabh Kashyap,CE,191052,1 year,District = Sirmaur,State = Himachal Pradesh
+309,Saloni Kumari,CE,191054,1 year,District = Gaya,State = Bihar
+310,Abhay Goyal,CE,191056,1 year,District = Sawai Madhopur,State = Rajasthan
+311,Swapnil,CE,191057,1 year,District = Patna,State = Bihar
+312,Atul Patel,CE,191058,1 year,District = Pratapgarh,State = Uttar Pradesh
+313,Ravinder,CE,191059,1 year,District = Hanumangarh,State = Rajasthan
+314,Nihal Raj Bharti,CE,191064,1 year,District = Sitamarhi,State = Bihar
+315,Ajay Singodiya,CE,191065,1 year,District = Sikar,State = Rajasthan
+316,Utkrish Byadwal,CE,191066,1 year,District = Alwar,State = Rajasthan
+317,Raghav Mahant,CE,191067,1 year,District = Kullu,State = Himachal Pradesh
+318,Sonu  Kumar,CE,191069,1 year,District = Aurangabad,State = Bihar
+319,Sourab Angral,CE,191070,1 year,District = Amritsar,State = Punjab
+320,Pragya Angra,CE,191071,1 year,District = Una,State = Himachal Pradesh
+321,Garima Vasanta,CE,191072,1 year,District = Mandsaur,State = Madhya Pradesh
+322,Sunil Kumar,CE,191075,1 year,District = West Champaran,State = Bihar
+323,Annem Lakshmi Manikanta Reddy,CE,191076,1 year,District = Guntur,State = Andhra Pradesh
+324,Nitish Kumar,CE,191077,1 year,District = Lakhisarai,State = Bihar
+325,Pasupuleti Subhash,CE,191078,1 year,District = Krishna,State = Andhra Pradesh
+326,Rahul Kumar,CE,191079,1 year,District = Aurangabad,State = Bihar
+327,Anushka Khachi,CE,191080,1 year,District = Kinnaur,State = Himachal Pradesh
+328,Amit Khachi,CE,191081,1 year,District = Kinnaur,State = Himachal Pradesh
+329,Manish Kumar,CE,191082,1 year,District = Jhunjhunu,State = Rajasthan
+330,Prashant Bhatia,CE,191085,1 year,District = Mandi,State = Himachal Pradesh
+331,Suraj Thakur,CE,191086,1 year,District = Solan,State = Himachal Pradesh
+332,Ankush Garg,CE,191087,1 year,District = Pali,State = Rajasthan
+333,Pankaj Sharma,CE,191090,1 year,District = Hisar,State = Haryana
+334,Rajat Sharma,CE,191094,1 year,District = Bharatpur,State = Rajasthan
+335,Mukul Pal,CE,191111,1 year,District = Muzaffarnagar,State = Uttar Pradesh
+336,Piyush Khare,CE,191113,1 year,District = Jhansi,State = Uttar Pradesh
+337,Virender Singh,CE,191973,1 year,District = Kangra,State = Himachal Pradesh
+338,Shubham Bhardwaj,AR,196001,1 year,District = Una,State = Himachal Pradesh
+339,Aryan Anand,AR,196002,1 year,District = Hamirpur,State = Himachal Pradesh
+340,Kartikay Pandit,AR,196003,1 year,District = Shimla,State = Himachal Pradesh
+341,Abhishek Sharma,AR,196004,1 year,District = Hamirpur,State = Himachal Pradesh
+342,Garima,AR,196005,1 year,District = Sirmaur,State = Himachal Pradesh
+343,Dhruv Sood,AR,196006,1 year,District = Shimla,State = Himachal Pradesh
+344,Apoorva Kaushal,AR,196007,1 year,District = Chandigarh,State = Chandigarh
+345,Sanjay Shiva,AR,196008,1 year,District = Bilaspur,State = Himachal Pradesh
+346,Gaurav,AR,196009,1 year,District = Kangra,State = Himachal Pradesh
+347,Vishal Prashar,AR,196010,1 year,District = Kangra,State = Himachal Pradesh
+348,Shubham Kumar Rana,AR,196011,1 year,District = Bilaspur,State = Himachal Pradesh
+349,Anargha Roy,AR,196012,1 year,District = Jalpaiguri,State = West Bengal
+350,Rahul Thakur,AR,196013,1 year,District = Kangra,State = Himachal Pradesh
+351,Saksham Bhardwaj,AR,196014,1 year,District = Bilaspur,State = Himachal Pradesh
+352,Sivadath .P.M,AR,196015,1 year,District = Thiruvananthapuram,State = Kerala
+353,Reetik Dhall,AR,196016,1 year,District = Kangra,State = Himachal Pradesh
+354,Royal Sharma,AR,196018,1 year,District = Kapurthala,State = Punjab
+355,Pranshu,AR,196019,1 year,District = Una,State = Himachal Pradesh
+356,Ayush Mehta,AR,196020,1 year,District = Kullu,State = Himachal Pradesh
+357,Ragini Sharma,AR,196021,1 year,District = Chamba,State = Himachal Pradesh
+358,Priya Jamwal,AR,196022,1 year,District = Kullu,State = Himachal Pradesh
+359,Manvi Mahajan,AR,196023,1 year,District = Kullu,State = Himachal Pradesh
+360,Ayushi Dhanotia,AR,196024,1 year,District = Kangra,State = Himachal Pradesh
+361,Aryan Kashav,AR,196025,1 year,District = Hamirpur,State = Himachal Pradesh
+362,Rohit Verma,AR,196026,1 year,District = Sitapur,State = Uttar Pradesh
+363,Sivanand K S,AR,196027,1 year,District = Kottayam,State = Kerala
+364,Ashish Kumar Sharma,AR,196028,1 year,District = Hamirpur,State = Himachal Pradesh
+365,Jaydeep Deka,AR,196029,1 year,District = Baksa,State = Assam
+366,Nikhil Kutlehria,AR,196030,1 year,District = Hamirpur,State = Himachal Pradesh
+367,Ann Mary Mathews,AR,196031,1 year,District = Pathanamthitta,State = Kerala
+368,Vishaliny  V,AR,196032,1 year,District = Tiruchirappalli,State = Tamil Nadu
+369,Gunna Ravi,AR,196033,1 year,District = Srikakulam,State = Andhra Pradesh
+370,Vanshaj Mehta,AR,196034,1 year,District = Kangra,State = Himachal Pradesh
+371,Rohit Saxena,AR,196035,1 year,District = Pauri Garhwal,State = Uttarakhand
+372,Anuroop Arya,AR,196036,1 year,District = Nainital,State = Uttarakhand
+373,Atrayee Baruah,AR,196039,1 year,District = Kamrup Metropolitan,State = Assam
+374,Sumit Lathwal,AR,196041,1 year,District = Sonipat,State = Haryana
+375,Mridul Chauhan,AR,196043,1 year,District = Shimla,State = Himachal Pradesh
+376,Sarthak Goel,AR,196045,1 year,District = Meerut,State = Uttar Pradesh
+377,Himanshu Sharma,AR,196046,1 year,District = Kullu,State = Himachal Pradesh
+378,Nishant Dhiman,AR,196048,1 year,District = Una,State = Himachal Pradesh
+379,Sruthi S,AR,196049,1 year,District = Kollam,State = Kerala
+380,Konakanchi Satya Sai Samhita,AR,196050,1 year,District = Visakhapatnam,State = Andhra Pradesh
+381,Shanmukha Vamshi Krishna Ragam,AR,196051,1 year,District = Ranga Reddy,State = Telangana
+382,Yandra Anusha,AR,196052,1 year,District = East Godavari,State = Andhra Pradesh
+383,Adarsh Pandey,AR,196053,1 year,District = Gorakhpur,State = Uttar Pradesh
+384,Mohammed Sajal Tc,AR,196055,1 year,District = Kozhikode,State = Kerala
+385,Mishal Hakeem Kp,AR,196056,1 year,District = Malappuram,State = Kerala
+386,B M V Yeshwanth,AR,196057,1 year,District = Chittoor,State = Andhra Pradesh
+387,Aswin Siva Prasad,AR,196058,1 year,District = Palakkad,State = Kerala
+388,Vandit Sharma,ECE-DD,194501,1 year,District = Mandi,State = Himachal Pradesh
+389,Sahil Dhiman,ECE-DD,194502,1 year,District = Kangra,State = Himachal Pradesh
+390,Atishay Kaundal,ECE-DD,194503,1 year,District = Kangra,State = Himachal Pradesh
+391,Poorvansh Mahajan,ECE-DD,194504,1 year,District = Kangra,State = Himachal Pradesh
+392,Sukriti Sood,ECE-DD,194505,1 year,District = Kangra,State = Himachal Pradesh
+393,Aryan Gupta,ECE-DD,194507,1 year,District = Solan,State = Himachal Pradesh
+394,Ritik Dhiman,ECE-DD,194508,1 year,District = Kangra,State = Himachal Pradesh
+395,Urvashi,ECE-DD,194511,1 year,District = Kangra,State = Himachal Pradesh
+396,Vasvi Sood,ECE-DD,294512,1 year,District = Shimla,State = Himachal Pradesh
+397,Arihant Raj Siddharth,ECE-DD,194513,1 year,District = Dehradun,State = Uttarakhand
+398,Arsh Guleria,ECE-DD,194514,1 year,District = Kangra,State = Himachal Pradesh
+399,Aditya Rana,ECE-DD,194515,1 year,District = Una,State = Himachal Pradesh
+400,Smile Guleria,ECE-DD,194516,1 year,District = Kullu,State = Himachal Pradesh
+401,Vasundhra Thakur,ECE-DD,194517,1 year,District = Kangra,State = Himachal Pradesh
+402,Akshit Dogra,ECE-DD,194518,1 year,District = Bilaspur,State = Himachal Pradesh
+403,Rajendra Thamerci,ECE-DD,194520,1 year,District = Visakhapatnam,State = Andhra Pradesh
+404,Shivam Kumar,ECE-DD,194521,1 year,District = Muzaffarpur,State = Bihar
+405,Sourabh Gachli,ECE-DD,194522,1 year,District = Shimla,State = Himachal Pradesh
+406,Srijan,ECE-DD,194523,1 year,District = Una,State = Himachal Pradesh
+407,Priyanshu,ECE-DD,194524,1 year,District = Bilaspur,State = Himachal Pradesh
+408,Pushkar Negi,ECE-DD,194526,1 year,District = Kinnaur,State = Himachal Pradesh
+409,Ritick Sharma,ECE-DD,194529,1 year,District = Kangra,State = Himachal Pradesh
+410,Sameer,ECE-DD,194530,1 year,District = Rewari,State = Haryana
+411,Akhilesh Mehra,ECE-DD,194531,1 year,District = Kangra,State = Himachal Pradesh
+412,Nalin Kumar,ECE-DD,194533,1 year,District = Dehradun,State = Uttarakhand
+413,Garima Goyal,ECE-DD,194535,1 year,District = Faridkot,State = Punjab
+414,Arnab Saha,ECE-DD,194536,1 year,District = Gautam Buddha Nagar,State = Uttar Pradesh
+415,Nishant Amarya,ECE-DD,194537,1 year,District = Jabalpur,State = Madhya Pradesh
+416,Adhyan Mahajan,ECE-DD,194538,1 year,District = Kathua,State = Jammu and Kashmir
+417,Ishan Agarwal,ECE-DD,194540,1 year,District = Ghaziabad,State = Uttar Pradesh
+418,Rishabh Agarwal,ECE-DD,194542,1 year,District = Meerut,State = Uttar Pradesh
+419,Jashwant Kumar,ECE-DD,194543,1 year,District = Begusarai,State = Bihar
+420,Suneeta,ECE-DD,194545,1 year,District = Dakshin Bastar Dantewada,State = Chhattisgarh
+421,Rushil Koundal,ECE-DD,194546,1 year,District = Kangra,State = Himachal Pradesh
+422,Esheta,ECE-DD,194547,1 year,District = Bareilly,State = Uttar Pradesh
+423,Nishant Gaurav,ECE-DD,194550,1 year,District = Sirmaur,State = Himachal Pradesh
+424,Yashaswini Sharma,ECE-DD,194551,1 year,District = Jaipur,State = Rajasthan
+425,Nemalikanti Saiganesh,ECE-DD,194553,1 year,District = Guntur,State = Andhra Pradesh
+426,Paksham Mahajan,ECE-DD,194555,1 year,District = Mandi,State = Himachal Pradesh
+427,Nitin Bansal,ECE-DD,194556,1 year,District = Bharatpur,State = Rajasthan
+428,Ayush,ECE-DD,194557,1 year,District = Panchkula,State = Haryana
+429,Mukul Goyal,ECE-DD,194558,1 year,District = Jaipur,State = Rajasthan
+430,Ketan Sharma,ECE-DD,194559,1 year,District = Gautam Buddha Nagar,State = Uttar Pradesh
+431,Vijay Pratap Singh,ECE-DD,194560,1 year,District = Bijnor,State = Uttar Pradesh
+432,Prem Kumar Sharma,ECE-DD,194562,1 year,District = Bulandshahr,State = Uttar Pradesh
+433,Shubham Gupta,ECE-DD,194563,1 year,District = Agar Malwa,State = Madhya Pradesh
+434,Shefali Kanojia,ECE-DD,194564,1 year,District = Lucknow,State = Uttar Pradesh
+435,Bhavesh Vaishnav,ECE-DD,194565,1 year,District = Pali,State = Rajasthan
+436,Manjeet Payal,ECE-DD,194567,1 year,District = Jhunjhunu,State = Rajasthan
+437,Sachin Kumar,ECE-DD,194568,1 year,District = Sirmaur,State = Himachal Pradesh
+438,Abhi Khandelwal,ECE-DD,194570,1 year,District = Dausa,State = Rajasthan
+439,Anand Chaurasiya,ECE-DD,194572,1 year,District = Ghazipur,State = Uttar Pradesh
+440,Mihir Jain,ECE-DD,194573,1 year,District = Hoshangabad,State = Madhya Pradesh
+441,Prafful Rana,ECE-DD,194574,1 year,District = Thane,State = Maharashtra
+442,Priyanshu Singh,ECE-DD,194576,1 year,District = Deoria,State = Uttar Pradesh
+443,Ananya Sharma,CSE,185001,2 year,District = Kangra,State = Himachal Pradesh
+444,Alekh Gupta,CSE,185002,2 year,District = Sirmaur,State = Himachal Pradesh
+445,Anshul,CSE,185003,2 year,District = Una,State = Himachal Pradesh
+446,Shivam Sharma,CSE,185004,2 year,District = Kangra,State = Himachal Pradesh
+447,Jai Singh Malhotra,CSE,185006,2 year,District = Mandi,State = Himachal Pradesh
+448,Neerav Ganate,CSE,185008,2 year,District = Solan,State = Himachal Pradesh
+449,Hritwik Bhardwaj,CSE,185009,2 year,District = Sirmaur,State = Himachal Pradesh
+450,Akshay Kumar,CSE,185010,2 year,District = Patiala,State = Punjab
+451,Rajat Thakur,CSE,185011,2 year,District = Mandi,State = Himachal Pradesh
+452,Kashish Srivastava,CSE,185014,2 year,District = Mandi,State = Himachal Pradesh
+453,Dipesh Kumar,CSE,185015,2 year,District = Gurugram,State = Haryana
+454,Akash,CSE,185016,2 year,District = Kangra,State = Himachal Pradesh
+455,Abhishek Chauhan,CSE,185017,2 year,District = Kullu,State = Himachal Pradesh
+456,Prateek Bharat Sharma,CSE,185019,2 year,District = Hamirpur,State = Himachal Pradesh
+457,Lalit Kumar,CSE,185020,2 year,District = Mandi,State = Himachal Pradesh
+458,Abhishek Kaundal,CSE,185021,2 year,District = Bilaspur,State = Himachal Pradesh
+459,Jyoti Sharma,CSE,185022,2 year,District = Sirmaur,State = Himachal Pradesh
+460,Vishal Shrivastava,CSE,185023,2 year,District = S.A.S. Nagar,State = Punjab
+461,Aayush Jaggi,CSE,185024,2 year,District = Kangra,State = Himachal Pradesh
+462,Saurav Sharma,CSE,185025,2 year,District = Kullu,State = Himachal Pradesh
+463,Shagun Katoch,CSE,185027,2 year,District = Hamirpur,State = Himachal Pradesh
+464,Nishit Attrey,CSE,185028,2 year,District = Hapur,State = Uttar Pradesh
+465,Suraj Kumar,CSE,185030,2 year,District = Kangra,State = Himachal Pradesh
+466,Shiv Kumar,CSE,185033,2 year,District = Solan,State = Himachal Pradesh
+467,Akash Rana,CSE,185034,2 year,District = Bijnor,State = Uttar Pradesh
+468,Anshu Singh,CSE,185035,2 year,District = Gautam Buddha Nagar,State = Uttar Pradesh
+469,Aman Garg,CSE,185036,2 year,District = Una,State = Himachal Pradesh
+470,Rohit Kaushal,CSE,185037,2 year,District = Mandi,State = Himachal Pradesh
+471,Anish Aggarwal,CSE,185039,2 year,District = Sirmaur,State = Himachal Pradesh
+472,B.VASANTHKALYAN,CSE,185040,2 year,District = Ranga Reddy,State = Telangana
+473,Anshika,CSE,185041,2 year,District = Kangra,State = Himachal Pradesh
+474,Chandan Paul,CSE,185042,2 year,District = Kullu,State = Himachal Pradesh
+475,Arshad Ali,CSE,185043,2 year,District = Bikaner,State = Rajasthan
+476,Prashant Kumar Jangid,CSE,185045,2 year,District = Dausa,State = Rajasthan
+477,Harbhajan Singh,CSE,185046,2 year,District = Kangra,State = Himachal Pradesh
+478,Mohit Kumar,CSE,185047,2 year,District = Kangra,State = Himachal Pradesh
+479,Abhav Singhal,CSE,185049,2 year,District = Sirmaur,State = Himachal Pradesh
+480,Atul Thakur,CSE,185050,2 year,District = Mandi,State = Himachal Pradesh
+481,Sanket Nagrale,CSE,185053,2 year,District = Amravati,State = Maharashtra
+482,Shubham Kumar,CSE,185054,2 year,District = Faridabad,State = Haryana
+483,Abhishek Kumar,CSE,185056,2 year,District = Kangra,State = Himachal Pradesh
+484,Avinash Yadav,CSE,185058,2 year,District = Ayodhya,State = Uttar Pradesh
+485,Shiv Kumar,CSE,185059,2 year,District = Agra,State = Uttar Pradesh
+486,Shubhang Bhagat,CSE,185060,2 year,District = Udhampur,State = Jammu and Kashmir
+487,Amit Kumar,CSE,185061,2 year,District = Saharanpur,State = Uttar Pradesh
+488,Prateek Pamecha,CSE,185062,2 year,District = Udaipur,State = Rajasthan
+489,Gitanjali,CSE,185063,2 year,District = Darbhanga,State = Bihar
+490,Dayanidhi Gupta,CSE,185065,2 year,District = Varanasi,State = Uttar Pradesh
+491,Sumati Mohan,CSE,185066,2 year,District = Kangra,State = Himachal Pradesh
+492,Avinal Kumar,CSE,185067,2 year,District = Purnia,State = Bihar
+493,Nikhil Sharma,CSE,185068,2 year,District = Mandi,State = Himachal Pradesh
+494,Lipakshi Dhiman,CSE,185069,2 year,District = Kangra,State = Himachal Pradesh
+495,Vinay Dahiya,CSE,185071,2 year,District = Rohtak,State = Haryana
+496,Shubham Mittal,CSE,185072,2 year,District = Jaipur,State = Rajasthan
+497,Sahil Chandel,CSE,185074,2 year,District = Bilaspur,State = Himachal Pradesh
+498,Alok Kumar,CSE,185075,2 year,District = Samastipur,State = Bihar
+499,Shashank Sharma,CSE,185077,2 year,District = Bulandshahr,State = Uttar Pradesh
+500,Arpita Tiwari,CSE,185078,2 year,District = Fatehpur,State = Uttar Pradesh
+501,Prachi Vishnoi,CSE,185079,2 year,District = Kanpur Nagar,State = Uttar Pradesh
+502,Prajjwal Singh,CSE,185081,2 year,District = Dehradun,State = Uttarakhand
+503,Gajendra Surariya,CSE,185082,2 year,District = Guna,State = Madhya Pradesh
+504,Satyam,CSE,185083,2 year,District = Kaimur,State = Bihar
+505,Nagarjuna,CSE,185084,2 year,District = Nalgonda,State = Telangana
+506,Akash,CSE,185085,2 year,District = Rohtak,State = Haryana
+507,Ankit Kumar,CSE,185086,2 year,District = Hisar,State = Haryana
+508,Harsimranjeet Saini,CSE,185087,2 year,District = Una,State = Himachal Pradesh
+509,Sanket Wable,CSE,185088,2 year,District = Ahmednagar,State = Maharashtra
+510,Nanda Bendkoli,CSE,185090,2 year,District = Nashik,State = Maharashtra
+511,Anand Aggarwal,CSE,185092,2 year,District = Shimla,State = Himachal Pradesh
+512,Tanya Bhandari,CSE,185093,2 year,District = South West Delhi,State = Delhi
+513,Deeksha Shrama,CSE,185094,2 year,District = Meerut,State = Uttar Pradesh
+514,Priyanshu Agrawal,CSE,185095,2 year,District = Mathura,State = Uttar Pradesh
+515,Azhan Ali,CSE,185096,2 year,District = Lucknow,State = Uttar Pradesh
+516,Piyush Chauhan,CSE,185097,2 year,District = Moradabad,State = Uttar Pradesh
+517,Divya Gunjan,CSE,185100,2 year,District = Patna,State = Bihar
+518,Pooja Nehra,CSE,185101,2 year,District = Hanumangarh,State = Rajasthan
+519,Aditi Singh,CSE,185102,2 year,District = Kangra,State = Himachal Pradesh
+520,Avantika Dhiman,ECE,184001,2 year,District = Kangra,State = Himachal Pradesh
+521,Vanshika Sharma,ECE,184003,2 year,District = Kangra,State = Himachal Pradesh
+522,Saumya Negi,ECE,184004,2 year,District = Kangra,State = Himachal Pradesh
+523,Sumit Kumar,ECE,184005,2 year,District = Una,State = Himachal Pradesh
+524,Arnav Jhagta,ECE,184006,2 year,District = Shimla,State = Himachal Pradesh
+525,Harsh Minhas,ECE,184007,2 year,District = Shimla,State = Himachal Pradesh
+526,Avnish Gautam,ECE,184008,2 year,District = Bilaspur,State = Himachal Pradesh
+527,Shubham Kumar,ECE,184010,2 year,District = Kangra,State = Himachal Pradesh
+528,Shivika,ECE,184011,2 year,District = Kangra,State = Himachal Pradesh
+529,Nitin Harjait,ECE,184012,2 year,District = Shimla,State = Himachal Pradesh
+530,Sachin Bhardwaj,ECE,184014,2 year,District = Mandi,State = Himachal Pradesh
+531,Rani Jairaj,ECE,184015,2 year,District = Chittorgarh,State = Rajasthan
+532,Pranjal Dureja,ECE,184016,2 year,District = Shimla,State = Himachal Pradesh
+533,Harshit,ECE,184017,2 year,District = Kangra,State = Himachal Pradesh
+534,Saurabh Goyal,ECE,184018,2 year,District = Gwalior,State = Madhya Pradesh
+535,Dhruv Panwar,ECE,184019,2 year,District = Shimla,State = Himachal Pradesh
+536,Abhishek Rana,ECE,184021,2 year,District = Kangra,State = Himachal Pradesh
+537,Ritik Kumar,ECE,184022,2 year,District = Kangra,State = Himachal Pradesh
+538,Kalpana Parashar,ECE,184023,2 year,District = Sirmaur,State = Himachal Pradesh
+539,Ritika Kalotra,ECE,184024,2 year,District = Chamba,State = Himachal Pradesh
+540,Anuj Kumar,ECE,184025,2 year,District = Hamirpur,State = Himachal Pradesh
+541,Anshul Paras,ECE,184027,2 year,District = Kangra,State = Himachal Pradesh
+542,Ishika Singh,ECE,184028,2 year,District = Kangra,State = Himachal Pradesh
+543,Musunuru Haneesh Sai,ECE,184030,2 year,District = Guntur,State = Andhra Pradesh
+544,Chandan Verma,ECE,184031,2 year,District = Jhansi,State = Uttar Pradesh
+545,Prakul,ECE,184032,2 year,District = Kangra,State = Himachal Pradesh
+546,Sansriti Suman,ECE,184033,2 year,District = Muzaffarpur,State = Bihar
+547,Ashish Kumar,ECE,184034,2 year,District = Kangra,State = Himachal Pradesh
+548,Yajur Gaur,ECE,184036,2 year,District = Sirmaur,State = Himachal Pradesh
+549,Yash Prakash Gupta,ECE,184037,2 year,District = Ghaziabad,State = Uttar Pradesh
+550,Rajat Thakur,ECE,184038,2 year,District = Una,State = Himachal Pradesh
+551,Sumrit Mukker,ECE,184039,2 year,District = Solan,State = Himachal Pradesh
+552,Amit Chawla,ECE,184040,2 year,District = Churu,State = Rajasthan
+553,Diksha Aggarwal,ECE,184041,2 year,District = Solan,State = Himachal Pradesh
+554,Divyanshu Khandelwal,ECE,184042,2 year,District = Jaipur,State = Rajasthan
+555,Rahul Kolish,ECE,184043,2 year,District = Sirmaur,State = Himachal Pradesh
+556,Manish Kumar Punia,ECE,184044,2 year,District = Sikar,State = Rajasthan
+557,Abhishek Singh,ECE,184045,2 year,District = Kangra,State = Himachal Pradesh
+558,Mohan Singh,ECE,184046,2 year,District = Sirmaur,State = Himachal Pradesh
+559,Geetanjali Kamal,ECE,184047,2 year,District = Jaipur,State = Rajasthan
+560,Amit Sharma,ECE,184048,2 year,District = Solan,State = Himachal Pradesh
+561,Anupam Singh,ECE,184049,2 year,District = Ghazipur,State = Uttar Pradesh
+562,Sai Yashwanth,ECE,184050,2 year,District = Y.S.R. Kadapa,State = Andhra Pradesh
+563,Nitesh Kumar,ECE,184052,2 year,District = Varanasi,State = Uttar Pradesh
+564,Asha Nandi,ECE,184056,2 year,District = Ganganagar,State = Rajasthan
+565,Saurabh Kumar Mishra,ECE,184057,2 year,District = Aurangabad,State = Bihar
+566,Vishal Kumar,ECE,184058,2 year,District = Darbhanga,State = Bihar
+567,Isha Mittal,ECE,184059,2 year,District = Solan,State = Himachal Pradesh
+568,Orsu Asish,ECE,184060,2 year,District = Guntur,State = Andhra Pradesh
+569,Rao Ehtesham,ECE,184062,2 year,District = Haridwar,State = Uttarakhand
+570,Samridhi Mishra,ECE,184064,2 year,District = S.A.S. Nagar,State = Punjab
+571,Sugali Yougender,ECE,184066,2 year,District = Hyderabad,State = Telangana
+572,Raja Rajeswari Palacharla,ECE,184067,2 year,District = East Godavari,State = Andhra Pradesh
+573,Myakala Phanindra Reddy,ECE,184068,2 year,District = Warangal Urban,State = Telangana
+574,Ronak Khandelwal,ECE,184069,2 year,District = Kota,State = Rajasthan
+575,K Preetham Reddy,ECE,184070,2 year,District = Hyderabad,State = Telangana
+576,Anjali Ruhela,ECE,184073,2 year,District = Udham Singh Nagar,State = Uttarakhand
+577,Vyomender Mehta,ECE,184074,2 year,District = Gurugram,State = Haryana
+578,Akash Kumar,ECE,184075,2 year,District = Purnia,State = Bihar
+579,Dhiraj Charan,ECE,184076,2 year,District = Bikaner,State = Rajasthan
+580,Dishebh Bhayana,ECE,184077,2 year,District = Jhajjar,State = Haryana
+581,Bhoomireddy Abhinav Reddy,ECE,184078,2 year,District = Hyderabad,State = Telangana
+582,Tanuja Pal,ECE,184079,2 year,District = Kanpur Nagar,State = Uttar Pradesh
+583,Anika Sharma,ECE,184080,2 year,District = Hamirpur,State = Himachal Pradesh
+584,Aditya Kumar,ECE,184082,2 year,District = Gautam Buddha Nagar,State = Uttar Pradesh
+585,Peram Rajasekhar Reddy,ECE,184083,2 year,District = Guntur,State = Andhra Pradesh
+586,Megha Soni,ECE,184084,2 year,District = Kota,State = Rajasthan
+587,Priyasha Thapa,ECE,184086,2 year,District = Kangra,State = Himachal Pradesh
+588,Gourav Rahi,ECE,184088,2 year,District = Kangra,State = Himachal Pradesh
+589,Avinash Kumar Paswan,ECE,184090,2 year,District = Madhubani,State = Bihar
+590,Kesava Ede,ECE,184091,2 year,District = Krishna,State = Andhra Pradesh
+591,Naveen Kumar,ECE,184092,2 year,District = Chandigarh,State = Chandigarh
+592,Dheeraj Vattikonda,ECE,184093,2 year,District = Ranga Reddy,State = Telangana
+593,Ingit Sharma,ECE,184094,2 year,District = Shimla,State = Himachal Pradesh
+594,Hemant Sharma,ECE,184095,2 year,District = Jaipur,State = Rajasthan
+595,Komal,EE,182001,2 year,District = Kangra,State = Himachal Pradesh
+596,Mridul,EE,182004,2 year,District = Kangra,State = Himachal Pradesh
+597,Rishabh Mankotia,EE,182005,2 year,District = Kangra,State = Himachal Pradesh
+598,Vanshika Awasthi,EE,182006,2 year,District = Kangra,State = Himachal Pradesh
+599,Aman Rana,EE,182008,2 year,District = Bilaspur,State = Himachal Pradesh
+600,Radhika Bhatti,EE,182009,2 year,District = Hamirpur,State = Himachal Pradesh
+601,Devangi,EE,182010,2 year,District = Hamirpur,State = Himachal Pradesh
+602,Tushar Dhiman,EE,182011,2 year,District = Una,State = Himachal Pradesh
+603,Kaustubh Bhatt,EE,182012,2 year,District = Shimla,State = Himachal Pradesh
+604,Aditya Aggarwal,EE,182013,2 year,District = Solan,State = Himachal Pradesh
+605,Ashish Kumar,EE,182015,2 year,District = Kangra,State = Himachal Pradesh
+606,Neesha Kumari,EE,182016,2 year,District = Hamirpur,State = Himachal Pradesh
+607,Vedant Sharma,EE,182017,2 year,District = Hamirpur,State = Himachal Pradesh
+608,Karan Sharma,EE,182018,2 year,District = Una,State = Himachal Pradesh
+609,Bhuvnesh Vashishat,EE,182019,2 year,District = Bilaspur,State = Himachal Pradesh
+610,Parivesh Sonkhale,EE,182020,2 year,District = Hamirpur,State = Himachal Pradesh
+611,Anil Kumar,EE,182021,2 year,District = Hamirpur,State = Himachal Pradesh
+612,Nitin Rana,EE,182022,2 year,District = Hamirpur,State = Himachal Pradesh
+613,Harsh Verma,EE,182023,2 year,District = Solan,State = Himachal Pradesh
+614,Diksha Thakur,EE,182025,2 year,District = Hamirpur,State = Himachal Pradesh
+615,Siddharth Mehta,EE,182026,2 year,District = Udaipur,State = Rajasthan
+616,Navesh,EE,182028,2 year,District = Kangra,State = Himachal Pradesh
+617,Unnat Thakur,EE,182029,2 year,District = Kullu,State = Himachal Pradesh
+618,Sunny Kumar,EE,182030,2 year,District = Chamba,State = Himachal Pradesh
+619,Sahil Kumar Sharma,EE,182031,2 year,District = Chamba,State = Himachal Pradesh
+620,Om Kumar,EE,182033,2 year,District = Aurangabad,State = Bihar
+621,Baneet Kumar,EE,182034,2 year,District = Kangra,State = Himachal Pradesh
+622,Zunaid Alam,EE,182036,2 year,District = Bhojpur,State = Bihar
+623,Divyansh Lahori,EE,182037,2 year,District = Shahjahanpur,State = Uttar Pradesh
+624,Varsha Meena,EE,182039,2 year,District = Jhunjhunu,State = Rajasthan
+625,Pranjal Sharma,EE,182040,2 year,District = Hamirpur,State = Himachal Pradesh
+626,Kritika Srivastava,EE,182042,2 year,District = Gautam Buddha Nagar,State = Uttar Pradesh
+627,Siddhant,EE,182043,2 year,District = Kinnaur,State = Himachal Pradesh
+628,Anurag Singh,EE,182044,2 year,District = Kota,State = Rajasthan
+629,Arnav Okhade,EE,182045,2 year,District = Bhopal,State = Madhya Pradesh
+630,Raghavendera Pal Singh Chauhan,EE,182048,2 year,District = Hoshiarpur,State = Punjab
+631,Punit Gautam,EE,182049,2 year,District = Gautam Buddha Nagar,State = Uttar Pradesh
+632,Ankush Kumar,EE,182050,2 year,District = Una,State = Himachal Pradesh
+633,Shailendra Kumar,EE,182051,2 year,District = Kaimur,State = Bihar
+634,Sandeep Thakur,EE,182052,2 year,District = Chamba,State = Himachal Pradesh
+635,Pranav Kimothi,EE,182053,2 year,District = Sirmaur,State = Himachal Pradesh
+636,Abhinandan Gupta,EE,182054,2 year,District = Ambedkar Nagar,State = Uttar Pradesh
+637,Sukriti Mohan,EE,182055,2 year,District = Una,State = Himachal Pradesh
+638,Rahul Bhardwaj,EE,182056,2 year,District = Shimla,State = Himachal Pradesh
+639,Shivam Kumar,EE,182058,2 year,District = Jalaun,State = Uttar Pradesh
+640,Durgesh Kumar,EE,182060,2 year,District = Chennai,State = Tamil Nadu
+641,Ankit Sharma,EE,182061,2 year,District = Kaimur,State = Bihar
+642,Chirag Bansal,EE,182063,2 year,District = Solan,State = Himachal Pradesh
+643,Ronit Chaurasia,EE,182064,2 year,District = Ghazipur,State = Uttar Pradesh
+644,Suyash Shukla,EE,182065,2 year,District = Gautam Buddha Nagar,State = Uttar Pradesh
+645,Aviral Tripathi,EE,182066,2 year,District = Kanpur Nagar,State = Uttar Pradesh
+646,Ankit Sharma,EE,182067,2 year,District = Shimla,State = Himachal Pradesh
+647,Dhairya Gupta,EE,182068,2 year,District = Fatehpur,State = Uttar Pradesh
+648,Aditya Agrahari,EE,182070,2 year,District = Saran,State = Bihar
+649,Saksham Bali,EE,182071,2 year,District = Moradabad,State = Uttar Pradesh
+650,Abha Gupta,EE,182072,2 year,District = Dehradun,State = Uttarakhand
+651,Rathla Bhanu Rathod,EE,182073,2 year,District = Sangareddy,State = Telangana
+652,Bheema Ram,EE,182074,2 year,District = Barmer,State = Rajasthan
+653,Harsh Gauttam,EE,182075,2 year,District = Dausa,State = Rajasthan
+654,Kailash Jangir,EE,182076,2 year,District = Churu,State = Rajasthan
+655,Anubhav Sharma,EE,182077,2 year,District = Sirmaur,State = Himachal Pradesh
+656,Bharath Koneti,EE,182079,2 year,District = Y.S.R. Kadapa,State = Andhra Pradesh
+657,Jairaj,EE,182080,2 year,District = Chamba,State = Himachal Pradesh
+658,Aman Kumar Singh,EE,182081,2 year,District = Gorakhpur,State = Uttar Pradesh
+659,Renuka Choudhary,EE,182082,2 year,District = Ganganagar,State = Rajasthan
+660,Nihal Sharma,EE,182083,2 year,District = Mandi,State = Himachal Pradesh
+661,Rahul Kumar Gupta,EE,182085,2 year,District = Sawai Madhopur,State = Rajasthan
+662,Gyansagar Gupta,EE,182087,2 year,District = Varanasi,State = Uttar Pradesh
+663,Rohit Kumar,EE,182088,2 year,District = Una,State = Himachal Pradesh
+664,Yatin Bhatt,EE,182090,2 year,District = Gautam Buddha Nagar,State = Uttar Pradesh
+665,Gajender Boora,EE,182091,2 year,District = Bhiwani,State = Haryana
+666,Amrit Rehalia,ME,183001,2 year,District = Kangra,State = Himachal Pradesh
+667,Nipun Bhardwaj,ME,183003,2 year,District = Kangra,State = Himachal Pradesh
+668,Hrikshant,ME,183004,2 year,District = Mandi,State = Himachal Pradesh
+669,Ujakshi Sharma,ME,183006,2 year,District = Una,State = Himachal Pradesh
+670,Kartik Nadda,ME,183007,2 year,District = Bilaspur,State = Himachal Pradesh
+671,Parth Sharma,ME,183009,2 year,District = Sirmaur,State = Himachal Pradesh
+672,Saksham Bhardwaj,ME,183011,2 year,District = Kangra,State = Himachal Pradesh
+673,Sourav Parmar,ME,183013,2 year,District = Hamirpur,State = Himachal Pradesh
+674,Akshant Ratwan,ME,183014,2 year,District = Bilaspur,State = Himachal Pradesh
+675,Aman Kumar,ME,183015,2 year,District = Kangra,State = Himachal Pradesh
+676,Abhinav Sharma,ME,183016,2 year,District = Sirmaur,State = Himachal Pradesh
+677,Devansh Rohilla,ME,183017,2 year,District = Sirmaur,State = Himachal Pradesh
+678,Ansh Jamdagni,ME,183019,2 year,District = Chamba,State = Himachal Pradesh
+679,Shubham Sharma,ME,183020,2 year,District = Hamirpur,State = Himachal Pradesh
+680,Prabhanjan Singh,ME,183022,2 year,District = Agra,State = Uttar Pradesh
+681,Amit Sandhu,ME,183023,2 year,District = Sirmaur,State = Himachal Pradesh
+682,Pratibha,ME,183024,2 year,District = Mandi,State = Himachal Pradesh
+683,Abhishek,ME,183025,2 year,District = Shimla,State = Himachal Pradesh
+684,Navneet,ME,183026,2 year,District = Solan,State = Himachal Pradesh
+685,Akhil Chauhan,ME,183027,2 year,District = Una,State = Himachal Pradesh
+686,Eshika Bajaj,ME,183028,2 year,District = Bilaspur,State = Himachal Pradesh
+687,Rouchish Attri,ME,183029,2 year,District = Una,State = Himachal Pradesh
+688,Simran,ME,183030,2 year,District = Kangra,State = Himachal Pradesh
+689,Surya Gaur,ME,183031,2 year,District = Sirmaur,State = Himachal Pradesh
+690,Nikhil Chaudhary,ME,183035,2 year,District = Kangra,State = Himachal Pradesh
+691,Dhanesh Thakur,ME,183036,2 year,District = Shimla,State = Himachal Pradesh
+692,Yashik Chauhan,ME,183038,2 year,District = Shimla,State = Himachal Pradesh
+693,Alok Ghunawat,ME,183040,2 year,District = Dausa,State = Rajasthan
+694,Shivam Kumar,ME,183041,2 year,District = Bilaspur,State = Himachal Pradesh
+695,Dhrumil Patadia,ME,183042,2 year,District = Pune,State = Maharashtra
+696,Ganesh Jakkamputi,ME,183043,2 year,District = Y.S.R. Kadapa,State = Andhra Pradesh
+697,Shivda Thakur,ME,183045,2 year,District = Kullu,State = Himachal Pradesh
+698,Harsh Somya,ME,183048,2 year,District = Hamirpur,State = Himachal Pradesh
+699,Mohit Bansal,ME,183049,2 year,District = Churu,State = Rajasthan
+700,Abhijeet Kumar,ME,183050,2 year,District = Sheikhpura,State = Bihar
+701,Lalit Kumar,ME,183052,2 year,District = Mathura,State = Uttar Pradesh
+702,Ritik Kumar,ME,183053,2 year,District = Mandi,State = Himachal Pradesh
+703,Riddhi Jawale,ME,183054,2 year,District = Thane,State = Maharashtra
+704,Saiesh Chinta,ME,183055,2 year,District = Krishna,State = Andhra Pradesh
+705,Kapil Kumar,ME,183056,2 year,District = Jhunjhunu,State = Rajasthan
+706,Chitresh Dhaked,ME,183057,2 year,District = Jaipur,State = Rajasthan
+707,Alok Rawat,ME,183058,2 year,District = Dehradun,State = Uttarakhand
+708,Diksha Gharsangi,ME,183059,2 year,District = Kullu,State = Himachal Pradesh
+709,Mukesh Kumar,ME,183060,2 year,District = Hanumangarh,State = Rajasthan
+710,Vaibhav Goswami,ME,183061,2 year,District = Jhansi,State = Uttar Pradesh
+711,Ritik Mittal,ME,183063,2 year,District = Jaipur,State = Rajasthan
+712,Paras Saini,ME,183064,2 year,District = Saharanpur,State = Uttar Pradesh
+713,Sagar Agrawal,ME,183066,2 year,District = Mathura,State = Uttar Pradesh
+714,Bagul Mihir Mahendra,ME,183067,2 year,District = Nashik,State = Maharashtra
+715,Prakriti Rana,ME,183068,2 year,District = Mandi,State = Himachal Pradesh
+716,Shiva,ME,183069,2 year,District = Sultanpur,State = Uttar Pradesh
+717,Abhishek Kumar,ME,183072,2 year,District = Jaipur,State = Rajasthan
+718,Piyush Sharma,ME,183073,2 year,District = Mandi,State = Himachal Pradesh
+719,Rahul Chaudhary,ME,183074,2 year,District = Kaushambi,State = Uttar Pradesh
+720,Vimal Singh,ME,183075,2 year,District = Lucknow,State = Uttar Pradesh
+721,Anu Priya,ME,183079,2 year,District = Lakhisarai,State = Bihar
+722,Ripu Raj,ME,183080,2 year,District = East Champaran,State = Bihar
+723,Sampath Pullela,ME,183081,2 year,District = Visakhapatnam,State = Andhra Pradesh
+724,Ankita Khanna,ME,183082,2 year,District = Una,State = Himachal Pradesh
+725,Manish Bhadu,ME,183083,2 year,District = Ganganagar,State = Rajasthan
+726,Kushal Pal,ME,183084,2 year,District = Rohtak,State = Haryana
+727,Pavan Kalyan,ME,183085,2 year,District = Guntur,State = Andhra Pradesh
+728,Anmol,ME,183086,2 year,District = Mandi,State = Himachal Pradesh
+729,Chandraprabha Naraniya,ME,183088,2 year,District = Jaipur,State = Rajasthan
+730,Keshav Garg,ME,183089,2 year,District = Ganganagar,State = Rajasthan
+731,Lokesh,ME,183090,2 year,District = Sirmaur,State = Himachal Pradesh
+732,Sher Alam,ME,183091,2 year,District = Sultanpur,State = Uttar Pradesh
+733,Harshit Sharma,ME,183092,2 year,District = Mandi,State = Himachal Pradesh
+734,Bhargav Gunti,ME,183093,2 year,District = Guntur,State = Andhra Pradesh
+735,Vishal Yadav,ME,183095,2 year,District = Pratapgarh,State = Uttar Pradesh
+736,Vidhi Shekhawat,ME,183097,2 year,District = Alwar,State = Rajasthan
+737,Ajay Kumar,ME,183100,2 year,District = Bilaspur,State = Himachal Pradesh
+738,Shubham Rana,ME,183101,2 year,District = Kangra,State = Himachal Pradesh
+739,Adnan Shahab,ME,183102,2 year,District = Ranchi,State = Jharkhand
+740,Tarannum Perween,ME,183103,2 year,District = Muzaffarpur,State = Bihar
+741,Akash Rai,ME,183104,2 year,District = Gautam Buddha Nagar,State = Uttar Pradesh
+742,Divyansh Anjan,ME,183105,2 year,District = Hoshangabad,State = Madhya Pradesh
+743,Jitendra Kumar,ME,183106,2 year,District = Bareilly,State = Uttar Pradesh
+744,Mimansa Thakur,CE,181001,2 year,District = Mandi,State = Himachal Pradesh
+745,Himanshul Verma,CE,181002,2 year,District = Solan,State = Himachal Pradesh
+746,Akash Dhiman,CE,181010,2 year,District = Una,State = Himachal Pradesh
+747,Akshat Sharma,CE,181012,2 year,District = Hamirpur,State = Himachal Pradesh
+748,Wilson Patyal,CE,181013,2 year,District = Hamirpur,State = Himachal Pradesh
+749,Abhishek Shama,CE,181015,2 year,District = Hamirpur,State = Himachal Pradesh
+750,Shivam Bisht,CE,181016,2 year,District = Una,State = Himachal Pradesh
+751,Udit Sood,CE,181017,2 year,District = Kullu,State = Himachal Pradesh
+752,Riya Dhiman,CE,181019,2 year,District = Bilaspur,State = Himachal Pradesh
+753,Rithabh Mohil,CE,181020,2 year,District = Sirmaur,State = Himachal Pradesh
+754,Yatindra Sharma,CE,181022,2 year,District = Sikar,State = Rajasthan
+755,Aayisha Gupta,CE,181025,2 year,District = Solan,State = Himachal Pradesh
+756,Shivam Gupta,CE,181026,2 year,District = Shimla,State = Himachal Pradesh
+757,Maulshri Thakur,CE,181027,2 year,District = Mandi,State = Himachal Pradesh
+758,Vaishali Rathore,CE,181028,2 year,District = Hamirpur,State = Himachal Pradesh
+759,Akarsh Dadhwal,CE,181029,2 year,District = Kullu,State = Himachal Pradesh
+760,Reetik Mukhiya,CE,181031,2 year,District = Shimla,State = Himachal Pradesh
+761,Akash Sharma,CE,181033,2 year,District = Kangra,State = Himachal Pradesh
+762,Ritik Thakur,CE,181038,2 year,District = Kullu,State = Himachal Pradesh
+763,Ayush Shukla,CE,181043,2 year,District = Kannauj,State = Uttar Pradesh
+764,Akhya Rai,CE,181045,2 year,District = Prayagraj,State = Uttar Pradesh
+765,Raju Yadav,CE,181046,2 year,District = Sitapur,State = Uttar Pradesh
+766,Akshat Jain,CE,181047,2 year,District = Jaipur,State = Rajasthan
+767,Sudhir Barala,CE,181048,2 year,District = Jaipur,State = Rajasthan
+768,Prince Kumar Chaurasia,CE,181052,2 year,District = Sitamarhi,State = Bihar
+769,Manav Thakur,CE,181053,2 year,District = Kullu,State = Himachal Pradesh
+770,Somya Sinha,CE,181054,2 year,District = Patna,State = Bihar
+771,Rupali,CE,181055,2 year,District = Mandi,State = Himachal Pradesh
+772,Shubham,CE,181058,2 year,District = Hamirpur,State = Himachal Pradesh
+773,Anita Ahirwar,CE,181062,2 year,District = Chhatarpur,State = Madhya Pradesh
+774,Sparsh Aggarwal,CE,181063,2 year,District = Solan,State = Himachal Pradesh
+775,Mitesh Meena,CE,181067,2 year,District = Jaipur,State = Rajasthan
+776,Ankush,CE,181069,2 year,District = Jhunjhunu,State = Rajasthan
+777,Ashish Bishnoi,CE,181072,2 year,District = Jaisalmer,State = Rajasthan
+778,Paras Sharma,CE,181073,2 year,District = Sirmaur,State = Himachal Pradesh
+779,Akash Verma,CE,181074,2 year,District = Kullu,State = Himachal Pradesh
+780,Shivam Kumar Maurya,CE,181075,2 year,District = Mirzapur,State = Uttar Pradesh
+781,Anant Singh,CE,181079,2 year,District = Bikaner,State = Rajasthan
+782,Bandana Kumari,CE,181083,2 year,District = Ferozepur,State = Punjab
+783,Ashmita Kumari,CE,181091,2 year,District = Patna,State = Bihar
+784,Priti Kanwar,CE,181092,2 year,District = Churu,State = Rajasthan
+785,Akshit Chaudhary,CE,181094,2 year,District = Hamirpur,State = Himachal Pradesh
+786,Ruchi Mittal,CE,181095,2 year,District = Etah,State = Uttar Pradesh
+787,Priyanshu Mangal,CE,181100,2 year,District = Dholpur,State = Rajasthan
+788,Shubham Chaudhary,AR,186001,2 year,District = Mandi,State = Himachal Pradesh
+789,Aditya Devlash,AR,186003,2 year,District = Kullu,State = Himachal Pradesh
+790,Deep6 Raj,AR,186004,2 year,District = Kullu,State = Himachal Pradesh
+791,Rahul Kurecha,AR,186005,2 year,District = Sirmaur,State = Himachal Pradesh
+792,Ritesh Kumar,AR,186006,2 year,District = Una,State = Himachal Pradesh
+793,Quini Boro,AR,186007,2 year,District = Kamrup Metropolitan,State = Assam
+794,Sadasivuni Pavan Kalyan,AR,186008,2 year,District = Visakhapatnam,State = Andhra Pradesh
+795,Hershita Bhatt,AR,186009,2 year,District = Kangra,State = Himachal Pradesh
+796,Nidhi Thakur,AR,186010,2 year,District = Hamirpur,State = Himachal Pradesh
+797,Shubhangi Gupta,AR,186011,2 year,District = S.A.S. Nagar,State = Punjab
+798,Parul Dhiman,AR,186012,2 year,District = Hamirpur,State = Himachal Pradesh
+799,Shivam Singal,AR,186014,2 year,District = Moga,State = Punjab
+800,Komanshi Saini,AR,186015,2 year,District = Sirmaur,State = Himachal Pradesh
+801,Meghna Garg,AR,186016,2 year,District = Kangra,State = Himachal Pradesh
+802,Ayush Prasher,AR,186017,2 year,District = Kangra,State = Himachal Pradesh
+803,Suryansh,AR,186018,2 year,District = Kangra,State = Himachal Pradesh
+804,Harshit Kapil,AR,186019,2 year,District = Solan,State = Himachal Pradesh
+805,Himanshu Tehlan,AR,186020,2 year,District = South West Delhi,State = Delhi
+806,Ritik Gupta,AR,186023,2 year,District = Solan,State = Himachal Pradesh
+807,Kanishk,AR,186024,2 year,District = Hamirpur,State = Himachal Pradesh
+808,Saad Ahammed K,AR,186025,2 year,District = Kannur,State = Kerala
+809,Adarsh Negi,AR,186026,2 year,District = South West Delhi,State = Delhi
+810,Sahil Thakur,AR,186028,2 year,District = Shimla,State = Himachal Pradesh
+811,Vikalp Sharma,AR,186029,2 year,District = Ludhiana,State = Punjab
+812,Megha,AR,186031,2 year,District = Kangra,State = Himachal Pradesh
+813,Saife Nizam,AR,186032,2 year,District = Kozhikode,State = Kerala
+814,Khushi Mehra,AR,186033,2 year,District = Jammu,State = Jammu and Kashmir
+815,Sukhbans Kaur,AR,186035,2 year,District = Kathua,State = Jammu and Kashmir
+816,Akhlaq Ahmad,AR,186036,2 year,District = Bahraich,State = Uttar Pradesh
+817,Parishi Arora,AR,186038,2 year,District = Ludhiana,State = Punjab
+818,Diksha Jaiswal,AR,186039,2 year,District = Jabalpur,State = Madhya Pradesh
+819,Esther Sawmbiakhoih,AR,186040,2 year,District = Aizawl,State = Mizoram
+820,Deepika Agarwal,AR,186041,2 year,District = Mathura,State = Uttar Pradesh
+821,Abhishek Kumar,AR,186042,2 year,District = Shimla,State = Himachal Pradesh
+822,Arunima Singh,AR,186044,2 year,District = Lucknow,State = Uttar Pradesh
+823,Mitali Bajaj,AR,186045,2 year,District = Bareilly,State = Uttar Pradesh
+824,Akshat Uppal,MS,188001,2 year,District = Kullu,State = Himachal Pradesh
+825,Adarsh Patkar,MS,188006,2 year,District = Katni,State = Madhya Pradesh
+826,Parshant Bhardwaj,MS,188007,2 year,District = Hamirpur,State = Himachal Pradesh
+827,Priyanka Lohiya,MS,188008,2 year,District = Jodhpur,State = Rajasthan
+828,Arnav Chauhan,MS,188010,2 year,District = Hamirpur,State = Himachal Pradesh
+829,Ashish Sharma,MS,188011,2 year,District = Bilaspur,State = Himachal Pradesh
+830,Harsh Vardhana,MS,188012,2 year,District = Kanpur Nagar,State = Uttar Pradesh
+831,Aman Chauhan,MS,188013,2 year,District = Shimla,State = Himachal Pradesh
+832,Ashish Kumar,MS,188016,2 year,District = Hamirpur,State = Himachal Pradesh
+833,Muskan Negi,MS,188017,2 year,District = Kinnaur,State = Himachal Pradesh
+834,Kartik,MS,188020,2 year,District = Jhunjhunu,State = Rajasthan
+835,Yash Mehra,MS,188024,2 year,District = Kanpur Nagar,State = Uttar Pradesh
+836,Pooja,MS,188025,2 year,District = Mandi,State = Himachal Pradesh
+837,Gangu Srinivasa Rao,MS,188026,2 year,District = Srikakulam,State = Andhra Pradesh
+838,Aman Kumar,MS,188027,2 year,District = Darbhanga,State = Bihar
+839,Manisha Yadav,MS,188028,2 year,District = Firozabad,State = Uttar Pradesh
+840,Ishant Kumar,CSE-DD,185501,2 year,District = Hamirpur,State = Himachal Pradesh
+841,Mohit Kumar Verma,CSE-DD,185502,2 year,District = Jaipur,State = Rajasthan
+842,Sarthak Gupta,CSE-DD,185503,2 year,District = Kangra,State = Himachal Pradesh
+843,Shivani,CSE-DD,185504,2 year,District = Kangra,State = Himachal Pradesh
+844,Aditi Katoch,CSE-DD,185505,2 year,District = Kangra,State = Himachal Pradesh
+845,Moulik,CSE-DD,185506,2 year,District = Una,State = Himachal Pradesh
+846,Shubhiv Dogra,CSE-DD,185507,2 year,District = Kangra,State = Himachal Pradesh
+847,Ankush,CSE-DD,185508,2 year,District = Hamirpur,State = Himachal Pradesh
+848,Kritarth Kapoor,CSE-DD,185510,2 year,District = Hamirpur,State = Himachal Pradesh
+849,Vishal Guleria,CSE-DD,185511,2 year,District = Mandi,State = Himachal Pradesh
+850,Swayam Kaul,CSE-DD,185512,2 year,District = Kangra,State = Himachal Pradesh
+851,Ankita,CSE-DD,185514,2 year,District = Kangra,State = Himachal Pradesh
+852,Shivang Upadhyay,CSE-DD,185515,2 year,District = Bilaspur,State = Himachal Pradesh
+853,Pinki Kumari,CSE-DD,185516,2 year,District = Una,State = Himachal Pradesh
+854,Danish Sheikh,CSE-DD,185517,2 year,District = Chamba,State = Himachal Pradesh
+855,Uttkarsh Chaurasia,CSE-DD,185518,2 year,District = Bengaluru Urban,State = Karnataka
+856,Akshat Raj Vansh,CSE-DD,185520,2 year,District = Lucknow,State = Uttar Pradesh
+857,Aman Prateek,CSE-DD,185521,2 year,District = Ghaziabad,State = Uttar Pradesh
+858,Adarsh Rana,CSE-DD,185522,2 year,District = Rupnagar,State = Punjab
+859,Ayush Kaushal,CSE-DD,185523,2 year,District = Una,State = Himachal Pradesh
+860,Shivek Soni,CSE-DD,185524,2 year,District = Hanumangarh,State = Rajasthan
+861,Kusum,CSE-DD,185525,2 year,District = Rewari,State = Haryana
+862,Yash Punia,CSE-DD,185526,2 year,District = Gurugram,State = Haryana
+863,Mayank Kumar Mongia,CSE-DD,185527,2 year,District = Muzaffarnagar,State = Uttar Pradesh
+864,Ritwik Duggal,CSE-DD,185528,2 year,District = Kangra,State = Himachal Pradesh
+865,Dishant,CSE-DD,185530,2 year,District = Rewari,State = Haryana
+866,Nakshtra Goyal,CSE-DD,185531,2 year,District = Kota,State = Rajasthan
+867,Mansi Negi,CSE-DD,185532,2 year,District = Solan,State = Himachal Pradesh
+868,Anand Kumar,CSE-DD,185533,2 year,District = Faridabad,State = Haryana
+869,Siddharth Naithani,CSE-DD,185534,2 year,District = Solan,State = Himachal Pradesh
+870,Amishi Bansal,CSE-DD,185535,2 year,District = Solan,State = Himachal Pradesh
+871,Priyanka,CSE-DD,185536,2 year,District = Kangra,State = Himachal Pradesh
+872,Kashish Kumar,CSE-DD,185538,2 year,District = Hamirpur,State = Himachal Pradesh
+873,Himanshi,CSE-DD,185539,2 year,District = South West Delhi,State = Delhi
+874,Akshay Thakur,CSE-DD,185541,2 year,District = Bilaspur,State = Himachal Pradesh
+875,Utkarsh Vashisht,CSE-DD,185542,2 year,District = Una,State = Himachal Pradesh
+876,Shubham Thakur,CSE-DD,185543,2 year,District = Chamba,State = Himachal Pradesh
+877,Karan Bhardwaj,CSE-DD,185544,2 year,District = Hamirpur,State = Himachal Pradesh
+878,Neetu Kumawat,CSE-DD,185545,2 year,District = Jaipur,State = Rajasthan
+879,Skand V Gupta,CSE-DD,185547,2 year,District = Bikaner,State = Rajasthan
+880,Abhay Maurya,CSE-DD,185548,2 year,District = Lucknow,State = Uttar Pradesh
+881,Shubham Jain,CSE-DD,185550,2 year,District = Chittorgarh,State = Rajasthan
+882,Suraj Gupta,CSE-DD,185551,2 year,District = Maharajganj,State = Uttar Pradesh
+883,Sanjay Gollamandala,CSE-DD,185552,2 year,District = East Godavari,State = Andhra Pradesh
+884,Yarra Sai Prashant,CSE-DD,185553,2 year,District = Hyderabad,State = Telangana
+885,Bhukya Vamshi Rathod,CSE-DD,185554,2 year,District = Hyderabad,State = Telangana
+886,Eshwar Malothu,CSE-DD,185555,2 year,District = Suryapet,State = Telangana
+887,Johan Anish,CSE-DD,185556,2 year,District = Alappuzha,State = Kerala
+888,Gudala Laya,CSE-DD,185557,2 year,District = Warangal Urban,State = Telangana
+889,Ankit Gupta,CSE-DD,185558,2 year,District = Jaipur,State = Rajasthan
+890,Bhanu Pratap,CSE-DD,185559,2 year,District = Saharanpur,State = Uttar Pradesh
+891,Harsh Sheth,CSE-DD,185560,2 year,District = Ashoknagar,State = Madhya Pradesh
+892,Koushik,ECE-DD,184501,2 year,District = Kangra,State = Himachal Pradesh
+893,Sakshi Koundal,ECE-DD,184502,2 year,District = Kangra,State = Himachal Pradesh
+894,Samridhi Gupta,ECE-DD,184503,2 year,District = Sirmaur,State = Himachal Pradesh
+895,Bhawna Negi,ECE-DD,184504,2 year,District = Shimla,State = Himachal Pradesh
+896,Anmol Dogra,ECE-DD,184505,2 year,District = Hamirpur,State = Himachal Pradesh
+897,Yugansh Jain,ECE-DD,184506,2 year,District = Solan,State = Himachal Pradesh
+898,Neha Kumari,ECE-DD,184507,2 year,District = Kangra,State = Himachal Pradesh
+899,Ankit,ECE-DD,184508,2 year,District = Bilaspur,State = Himachal Pradesh
+900,Peeyush Thakur,ECE-DD,184510,2 year,District = Hamirpur,State = Himachal Pradesh
+901,Aniket,ECE-DD,184511,2 year,District = Kinnaur,State = Himachal Pradesh
+902,Priyanka Negi,ECE-DD,184512,2 year,District = Bilaspur,State = Himachal Pradesh
+903,Amandeep Singh,ECE-DD,184513,2 year,District = Solan,State = Himachal Pradesh
+904,Avinash Kumar,ECE-DD,184515,2 year,District = Mandi,State = Himachal Pradesh
+905,Prithal,ECE-DD,184516,2 year,District = Hamirpur,State = Himachal Pradesh
+906,Rohit Bhatia,ECE-DD,184518,2 year,District = Kangra,State = Himachal Pradesh
+907,Mohit Mukamia,ECE-DD,184519,2 year,District = Kangra,State = Himachal Pradesh
+908,Sheril Sood,ECE-DD,184520,2 year,District = Kangra,State = Himachal Pradesh
+909,Dixit,ECE-DD,184521,2 year,District = Kangra,State = Himachal Pradesh
+910,Arush Singh Koundal,ECE-DD,184522,2 year,District = Kangra,State = Himachal Pradesh
+911,Parvinder Singh,ECE-DD,184523,2 year,District = Hamirpur,State = Himachal Pradesh
+912,Kartik Aggarwal,ECE-DD,184524,2 year,District = Sirmaur,State = Himachal Pradesh
+913,Vikas Kumar Gupta,ECE-DD,184525,2 year,District = Banda,State = Uttar Pradesh
+914,Varun Bharti,ECE-DD,184526,2 year,District = Meerut,State = Uttar Pradesh
+915,Tejesh Reddy,ECE-DD,184528,2 year,District = Srikakulam,State = Andhra Pradesh
+916,Charu Agarwal,ECE-DD,184530,2 year,District = Jaipur,State = Rajasthan
+917,Himanshu Panwar,ECE-DD,184531,2 year,District = Sirmaur,State = Himachal Pradesh
+918,Sahil,ECE-DD,184532,2 year,District = Fatehabad,State = Haryana
+919,Vandana Boora,ECE-DD,184535,2 year,District = Ajmer,State = Rajasthan
+920,Tamanna Rana,ECE-DD,184536,2 year,District = Mandi,State = Himachal Pradesh
+921,B Krutik Ganapati,ECE-DD,184537,2 year,District = Mysuru,State = Karnataka
+922,Rohan Ranjan,ECE-DD,184538,2 year,District = Patna,State = Bihar
+923,Vivek Gupta,ECE-DD,184539,2 year,District = Karauli,State = Rajasthan
+924,Nikita Mahoviya,ECE-DD,184540,2 year,District = Lucknow,State = Uttar Pradesh
+925,Tabish Imran,ECE-DD,184543,2 year,District = Samastipur,State = Bihar
+926,Sarita Singh,ECE-DD,184544,2 year,District = Ranchi,State = Jharkhand
+927,Ayushi Gupta,ECE-DD,184545,2 year,District = Varanasi,State = Uttar Pradesh
+928,Tanay Sawarn,ECE-DD,184546,2 year,District = Surajpur,State = Chhattisgarh
+929,Mukul,ECE-DD,184547,2 year,District = Mandi,State = Himachal Pradesh
+930,Aakash Gupta,ECE-DD,184548,2 year,District = Palwal,State = Haryana
+931,Nikhil Kumar Singh,ECE-DD,184550,2 year,District = Varanasi,State = Uttar Pradesh
+932,Potluri Pavan Kumar,ECE-DD,184551,2 year,District = S.P.S. Nellore,State = Andhra Pradesh
+933,Aniket Bhandari,ECE-DD,184552,2 year,District = Kinnaur,State = Himachal Pradesh
+934,Satvik Sharma,ECE-DD,184553,2 year,District = Kangra,State = Himachal Pradesh
+935,Naveen Yadav,ECE-DD,184554,2 year,District = Alwar,State = Rajasthan
+936,Aniket Srivastava,ECE-DD,184555,2 year,District = Gorakhpur,State = Uttar Pradesh
+937,Ashoo Ohri,ECE-DD,184557,2 year,District = Gwalior,State = Madhya Pradesh
+938,Swaraj Singh,ECE-DD,184558,2 year,District = Hamirpur,State = Himachal Pradesh
+939,Jaya Krishna Jalla,ECE-DD,184559,2 year,District = Nalgonda,State = Telangana
+940,Pawan Singh,ECE-DD,184560,2 year,District = Nainital,State = Uttarakhand
+941,Chirag Thakur,CSE,17501,3 year,District = Hamirpur,State = Himachal Pradesh
+942,Anshul Angaria,CSE,17504,3 year,District = Kangra,State = Himachal Pradesh
+943,Shubhankar Sharma,CSE,17505,3 year,District = Solan,State = Himachal Pradesh
+944,Abhimanyu Singh Chittoria,CSE,17506,3 year,District = Kangra,State = Himachal Pradesh
+945,Ashish Kaushal,CSE,17508,3 year,District = Hamirpur,State = Himachal Pradesh
+946,Sahil Saini,CSE,17509,3 year,District = Ambala,State = Haryana
+947,Aman,CSE,17510,3 year,District = Sirmaur,State = Himachal Pradesh
+948,Pawan Ramaswamy,CSE,17511,3 year,District = Bengaluru Urban,State = Karnataka
+949,Gaurav,CSE,17512,3 year,District = Una,State = Himachal Pradesh
+950,Rishabh Kaundal,CSE,17513,3 year,District = Kangra,State = Himachal Pradesh
+951,Sumit Kumar Verma,CSE,17515,3 year,District = Patna,State = Bihar
+952,Yogesh Kumar,CSE,17517,3 year,District = Mahendragarh,State = Haryana
+953,Harshit Babbar,CSE,17518,3 year,District = Jhajjar,State = Haryana
+954,Arvind Negi,CSE,17519,3 year,District = Kinnaur,State = Himachal Pradesh
+955,Mayank Dhiman,CSE,17520,3 year,District = Kangra,State = Himachal Pradesh
+956,Mukul Koundal,CSE,17521,3 year,District = Kangra,State = Himachal Pradesh
+957,Pradyuman,CSE,17524,3 year,District = Mandi,State = Himachal Pradesh
+958,Amit Kumar,CSE,17526,3 year,District = South West Delhi,State = Delhi
+959,Anshul Kumar,CSE,17527,3 year,District = Shimla,State = Himachal Pradesh
+960,Sarthak Sharma,CSE,17528,3 year,District = Solan,State = Himachal Pradesh
+961,Rohit Mehta,CSE,17530,3 year,District = Hamirpur,State = Himachal Pradesh
+962,Kumar Kartikay,CSE,17531,3 year,District = Chamba,State = Himachal Pradesh
+963,Vaibhav Sharma,CSE,17532,3 year,District = Kangra,State = Himachal Pradesh
+964,Suryansh Sharma,CSE,17533,3 year,District = Hamirpur,State = Himachal Pradesh
+965,Digvijay Janartha,CSE,17534,3 year,District = Solan,State = Himachal Pradesh
+966,Vipin Kumar,CSE,17536,3 year,District = Gaya,State = Bihar
+967,Aniket Dogra,CSE,17537,3 year,District = Shimla,State = Himachal Pradesh
+968,Prag Koundal,CSE,17538,3 year,District = Shimla,State = Himachal Pradesh
+969,Abhinav Rawat,CSE,17539,3 year,District = Pithoragarh,State = Uttarakhand
+970,Aarsh Sharma,CSE,17540,3 year,District = Kangra,State = Himachal Pradesh
+971,Lakshay,CSE,17542,3 year,District = Mandi,State = Himachal Pradesh
+972,Arvind Singh,CSE,17544,3 year,District = Mathura,State = Uttar Pradesh
+973,Mayank Gautam,CSE,17545,3 year,District = Sirmaur,State = Himachal Pradesh
+974,Aditya Nath Suman,CSE,17546,3 year,District = Sitamarhi,State = Bihar
+975,Shivam Sahu,CSE,17547,3 year,District = Raipur,State = Chhattisgarh
+976,Manisha Verma,CSE,17549,3 year,District = Kanpur Nagar,State = Uttar Pradesh
+977,Inderjeet Singh,CSE,17550,3 year,District = Solan,State = Himachal Pradesh
+978,Yogendra Singh,CSE,17551,3 year,District = Mumbai,State = Maharashtra
+979,Mohit Kapoor,CSE,17552,3 year,District = Kangra,State = Himachal Pradesh
+980,Varan Singh Rohila,CSE,17554,3 year,District = Ghaziabad,State = Uttar Pradesh
+981,Kusum Koli,CSE,17555,3 year,District = Udham Singh Nagar,State = Uttarakhand
+982,Harshit Agarwal,CSE,17556,3 year,District = Agra,State = Uttar Pradesh
+983,Haq Nizar,CSE,17557,3 year,District = Kozhikode,State = Kerala
+984,Priyam Gupta,CSE,17559,3 year,District = Sambhal,State = Uttar Pradesh
+985,Ashish Yadav,CSE,17560,3 year,District = Alwar,State = Rajasthan
+986,Ujjawal Gupta,CSE,17561,3 year,District = Jaipur,State = Rajasthan
+987,Muskan Mangal,CSE,17562,3 year,District = Dholpur,State = Rajasthan
+988,Anshita Vishwa,CSE,17564,3 year,District = Ajmer,State = Rajasthan
+989,Anmol Gupta,CSE,17565,3 year,District = Baghpat,State = Uttar Pradesh
+990,Naman Lalit,CSE,17566,3 year,District = Ambala,State = Haryana
+991,Rohit Kumar,CSE,17567,3 year,District = Meerut,State = Uttar Pradesh
+992,Mayank Singh,CSE,17568,3 year,District = Singrauli,State = Madhya Pradesh
+993,Abhishek Mishra,CSE,17569,3 year,District = Panchkula,State = Haryana
+994,Kunal,CSE,17570,3 year,District = Meerut,State = Uttar Pradesh
+995,Ankit Verma,CSE,17571,3 year,District = Faridabad,State = Haryana
+996,Abhishek Kumar Sharma,CSE,17572,3 year,District = Hamirpur,State = Himachal Pradesh
+997,Yashashvi Singh,CSE,17573,3 year,District = Gorakhpur,State = Uttar Pradesh
+998,Yuvraj Vijay,CSE,17575,3 year,District = Dausa,State = Rajasthan
+999,Riya Kaushik,CSE,17576,3 year,District = Panipat,State = Haryana
+1000,Ayush Jain,CSE,17577,3 year,District = Bundi,State = Rajasthan
+1001,Dinesh,CSE,17578,3 year,District = Jhajjar,State = Haryana
+1002,Shivansh Thakur,CSE,17579,3 year,District = Mandi,State = Himachal Pradesh
+1003,Ritchie Ronald Kindo,CSE,17581,3 year,District = Visakhapatnam,State = Andhra Pradesh
+1004,Pawan Kumar,CSE,17582,3 year,District = Karauli,State = Rajasthan
+1005,Mohit Sharma,CSE,17583,3 year,District = Bundi,State = Rajasthan
+1006,Karan Kumar Barnwal,CSE,17584,3 year,District = Giridih,State = Jharkhand
+1007,Ravinder Kumar,CSE,17585,3 year,District = Sikar,State = Rajasthan
+1008,Arya Bhardwaj,CSE,17587,3 year,District = Sirmaur,State = Himachal Pradesh
+1009,Vivek Ratn Singh,CSE,17588,3 year,District = South Goa,State = Goa
+1010,Meet Vyas,CSE,17589,3 year,District = Surat,State = Gujarat
+1011,Dinesh,CSE,17590,3 year,District = Bikaner,State = Rajasthan
+1012,Abhijeet Srivastava,CSE,17591,3 year,District = Ghaziabad,State = Uttar Pradesh
+1013,Vineet,CSE,17592,3 year,District = Kurukshetra,State = Haryana
+1014,Rajnayan Bhagat,CSE,17594,3 year,District = Nagpur,State = Maharashtra
+1015,Sakshi,ECE,17402,3 year,District = Kullu,State = Himachal Pradesh
+1016,Saksham Kumar Sharma,ECE,17403,3 year,District = Bilaspur,State = Himachal Pradesh
+1017,Vaibhav Kumar,ECE,17404,3 year,District = Shimla,State = Himachal Pradesh
+1018,Sunil Kumar,ECE,17405,3 year,District = Hamirpur,State = Himachal Pradesh
+1019,Shashank Dhawan,ECE,17406,3 year,District = Sirmaur,State = Himachal Pradesh
+1020,Marmik Sharma,ECE,17407,3 year,District = Hamirpur,State = Himachal Pradesh
+1021,Pooja Verma,ECE,17408,3 year,District = Sirmaur,State = Himachal Pradesh
+1022,Kanchan Verma,ECE,17409,3 year,District = Jaipur,State = Rajasthan
+1023,Kritika Mahajan,ECE,17410,3 year,District = Mandi,State = Himachal Pradesh
+1024,Royal Sethi,ECE,17411,3 year,District = Shimla,State = Himachal Pradesh
+1025,Abhishek Kolish,ECE,17413,3 year,District = Sirmaur,State = Himachal Pradesh
+1026,Vivek Kumar,ECE,17415,3 year,District = Shimla,State = Himachal Pradesh
+1027,Kartik Verma,ECE,17419,3 year,District = S.A.S. Nagar,State = Punjab
+1028,Aradhita Sharma,ECE,17421,3 year,District = Hamirpur,State = Himachal Pradesh
+1029,Ayush Thakur,ECE,17423,3 year,District = Solan,State = Himachal Pradesh
+1030,Hitesh Saini,ECE,17424,3 year,District = Una,State = Himachal Pradesh
+1031,Mayank Singh,ECE,17426,3 year,District = Solan,State = Himachal Pradesh
+1032,Deepak Kamat,ECE,17427,3 year,District = Ghaziabad,State = Uttar Pradesh
+1033,Nitin Kumar Maurya,ECE,17428,3 year,District = Jaunpur,State = Uttar Pradesh
+1034,Atul,ECE,17429,3 year,District = Mandi,State = Himachal Pradesh
+1035,Kriti Sharma,ECE,17430,3 year,District = Solan,State = Himachal Pradesh
+1036,Vikas Kumar,ECE,17431,3 year,District = Mandi,State = Himachal Pradesh
+1037,Nikhil Thakur,ECE,17432,3 year,District = Bilaspur,State = Himachal Pradesh
+1038,Amit Vikram Srivastava,ECE,17434,3 year,District = South West Delhi,State = Delhi
+1039,Mustafa Ahmed,ECE,17435,3 year,District = Udaipur,State = Rajasthan
+1040,Navdeeshwar Suman,ECE,17436,3 year,District = Kangra,State = Himachal Pradesh
+1041,Priyanshi Kanwar,ECE,17437,3 year,District = Raipur,State = Chhattisgarh
+1042,Damini Kashyap,ECE,17438,3 year,District = Kangra,State = Himachal Pradesh
+1043,Aditi Chandel,ECE,17439,3 year,District = Shimla,State = Himachal Pradesh
+1044,Rahul Sharma,ECE,17440,3 year,District = Solan,State = Himachal Pradesh
+1045,Naresh Kumar Meena,ECE,17441,3 year,District = Bundi,State = Rajasthan
+1046,Shikha Rani,ECE,17442,3 year,District = Godda,State = Jharkhand
+1047,Ambar Gupta,ECE,17444,3 year,District = Bareilly,State = Uttar Pradesh
+1048,Vivek Gusain,ECE,17445,3 year,District = Dehradun,State = Uttarakhand
+1049,Diksha,ECE,17446,3 year,District = Kangra,State = Himachal Pradesh
+1050,Ripal Sharma,ECE,17448,3 year,District = Hamirpur,State = Himachal Pradesh
+1051,Maulika Sharma,ECE,17450,3 year,District = Chandigarh,State = Chandigarh
+1052,Piyush,ECE,17458,3 year,District = Mandi,State = Himachal Pradesh
+1053,Vullingala Syanthan,ECE,17460,3 year,District = Visakhapatnam,State = Andhra Pradesh
+1054,Rajat Bhardwaj,ECE,17461,3 year,District = Una,State = Himachal Pradesh
+1055,Vishal Girdhar,ECE,17462,3 year,District = Jhunjhunu,State = Rajasthan
+1056,Kevin J Kurien,ECE,17463,3 year,District = Pathankot,State = Punjab
+1057,Tushar Mahajan,ECE,17464,3 year,District = Udhampur,State = Jammu and Kashmir
+1058,Shivansh Vashishtha,ECE,17466,3 year,District = Seoni,State = Madhya Pradesh
+1059,Sanjana Bansal,ECE,17468,3 year,District = Sri Muktsar Sahib,State = Punjab
+1060,Mukul Mahadik,ECE,17469,3 year,District = Pune,State = Maharashtra
+1061,Jayam Verma,ECE,17472,3 year,District = Ghaziabad,State = Uttar Pradesh
+1062,Moola Sowmith Reddy,ECE,17473,3 year,District = Hyderabad,State = Telangana
+1063,Khushboo Kumari,ECE,17476,3 year,District = Patna,State = Bihar
+1064,Simble Choudhary,ECE,17477,3 year,District = Muzaffarnagar,State = Uttar Pradesh
+1065,Doudikthang,ECE,17478,3 year,District = Churachandpur,State = Manipur
+1066,Sonam Hozer,ECE,17479,3 year,District = Lahaul and Spiti,State = Himachal Pradesh
+1067,Raj Kumar,ECE,17480,3 year,District = Nalanda,State = Bihar
+1068,Shubhi Rawat,ECE,17481,3 year,District = Lucknow,State = Uttar Pradesh
+1069,Ashish Goutam,ECE,17484,3 year,District = Lakhimpur Kheri,State = Uttar Pradesh
+1070,Supriya Thakur,ECE,17485,3 year,District = Shimla,State = Himachal Pradesh
+1071,Prashant Tyagi,ECE,17488,3 year,District = Dholpur,State = Rajasthan
+1072,Akshat Gupta,ECE,17489,3 year,District = Alwar,State = Rajasthan
+1073,Hritik Bansal,ECE,17491,3 year,District = Ajmer,State = Rajasthan
+1074,Satyam Sharma,EE,17201,3 year,District = Kangra,State = Himachal Pradesh
+1075,Vidisha Saha Roy,EE,17202,3 year,District = Kangra,State = Himachal Pradesh
+1076,Robin Dutt,EE,17203,3 year,District = Una,State = Himachal Pradesh
+1077,Rishav Kumar,EE,17204,3 year,District = Una,State = Himachal Pradesh
+1078,Bhavesh Kanav Singh,EE,17205,3 year,District = Kullu,State = Himachal Pradesh
+1079,Komal Sharma,EE,17206,3 year,District = Hamirpur,State = Himachal Pradesh
+1080,Prachi Sharma,EE,17207,3 year,District = Hamirpur,State = Himachal Pradesh
+1081,Anirudh Madhusudan,EE,17208,3 year,District = Shimla,State = Himachal Pradesh
+1082,Akshika Sharma,EE,17209,3 year,District = Kangra,State = Himachal Pradesh
+1083,Sawan Bharati Jaryal,EE,17211,3 year,District = Hamirpur,State = Himachal Pradesh
+1084,Sumit Kumar,EE,17212,3 year,District = Kinnaur,State = Himachal Pradesh
+1085,Anshul,EE,17214,3 year,District = Kangra,State = Himachal Pradesh
+1086,Kanav Mahajan,EE,17215,3 year,District = Chamba,State = Himachal Pradesh
+1087,Ishan Sharma,EE,17216,3 year,District = Kangra,State = Himachal Pradesh
+1088,Prateek Rathore,EE,17217,3 year,District = Kathua,State = Jammu and Kashmir
+1089,Ayush Bhatia,EE,17218,3 year,District = Solan,State = Himachal Pradesh
+1090,Gourav Aggrawal,EE,17219,3 year,District = Alwar,State = Rajasthan
+1091,Gireesh Pareek,EE,17221,3 year,District = Churu,State = Rajasthan
+1092,Yashvardhan Singh,EE,17222,3 year,District = Shimla,State = Himachal Pradesh
+1093,Sarvesh Shukla,EE,17223,3 year,District = Basti,State = Uttar Pradesh
+1094,Ankit Sharma,EE,17224,3 year,District = Kangra,State = Himachal Pradesh
+1095,Sarang Jayant,EE,17225,3 year,District = Hamirpur,State = Himachal Pradesh
+1096,Yugal Khadria,EE,17226,3 year,District = Hanumangarh,State = Rajasthan
+1097,Bhanu Bagdi,EE,17227,3 year,District = Kota,State = Rajasthan
+1098,Dhruv Thakur,EE,17228,3 year,District = Kullu,State = Himachal Pradesh
+1099,Mrigyanshi Thakur,EE,17229,3 year,District = Mandi,State = Himachal Pradesh
+1100,Rohan Sharma,EE,17233,3 year,District = Shimla,State = Himachal Pradesh
+1101,Ashish Kumar,EE,17235,3 year,District = Shimla,State = Himachal Pradesh
+1102,Pankaj Choudhary,EE,17236,3 year,District = Kangra,State = Himachal Pradesh
+1103,Mehul Garg,EE,17237,3 year,District = Ghaziabad,State = Uttar Pradesh
+1104,Shivani Garg,EE,17239,3 year,District = Sirmaur,State = Himachal Pradesh
+1105,Prateek Negi,EE,17240,3 year,District = Kinnaur,State = Himachal Pradesh
+1106,Ayush Kumar Tiwari,EE,17241,3 year,District = Bareilly,State = Uttar Pradesh
+1107,Neha Grewal,EE,17242,3 year,District = Una,State = Himachal Pradesh
+1108,Banwari Lal Dhakar,EE,17243,3 year,District = Bhilwara,State = Rajasthan
+1109,Abhay Kumar Singh,EE,17244,3 year,District = Gorakhpur,State = Uttar Pradesh
+1110,Yojan Sharma,EE,17246,3 year,District = Bharatpur,State = Rajasthan
+1111,Monish Jaiswal,EE,17248,3 year,District = Dausa,State = Rajasthan
+1112,Pratham Singh,EE,17252,3 year,District = Sirmaur,State = Himachal Pradesh
+1113,Devendra Yadav,EE,17253,3 year,District = Ballia,State = Uttar Pradesh
+1114,Paras Arora,EE,17255,3 year,District = Ganganagar,State = Rajasthan
+1115,Sahil Mittal,EE,17256,3 year,District = Agra,State = Uttar Pradesh
+1116,Rishav Chaudhary,EE,17257,3 year,District = Mandi,State = Himachal Pradesh
+1117,Adhisht Bansal,EE,17258,3 year,District = Sirmaur,State = Himachal Pradesh
+1118,Mridul Koundal,EE,17259,3 year,District = Kangra,State = Himachal Pradesh
+1119,Ayushi Aggarwal,EE,17260,3 year,District = Sirmaur,State = Himachal Pradesh
+1120,Sushil Thakur,EE,17262,3 year,District = Kullu,State = Himachal Pradesh
+1121,Rohan Azad,EE,17264,3 year,District = Shimla,State = Himachal Pradesh
+1122,Ashutosh Sharma,EE,17266,3 year,District = Dausa,State = Rajasthan
+1123,Rajat Anant,EE,17267,3 year,District = Shamli,State = Uttar Pradesh
+1124,Rahul Kaushik,EE,17269,3 year,District = Bikaner,State = Rajasthan
+1125,Rahul Kumar,EE,17271,3 year,District = Jaipur,State = Rajasthan
+1126,Naveen Kumar,EE,17272,3 year,District = Nagaur,State = Rajasthan
+1127,Anup Kumar,EE,17273,3 year,District = East Champaran,State = Bihar
+1128,Sangam Bharti,EE,17274,3 year,District = Kangra,State = Himachal Pradesh
+1129,Vivek Bhupesh,EE,17275,3 year,District = Jaipur,State = Rajasthan
+1130,Vikash Choudhary,EE,17276,3 year,District = Jaipur,State = Rajasthan
+1131,Dharmendra Singh,EE,17277,3 year,District = Kota,State = Rajasthan
+1132,Ayush Pandey,EE,17278,3 year,District = Solan,State = Himachal Pradesh
+1133,Shubham Gupta,EE,17279,3 year,District = Solan,State = Himachal Pradesh
+1134,Archi Agrawal,EE,17280,3 year,District = Bharatpur,State = Rajasthan
+1135,Kalpansh Verma,EE,17281,3 year,District = Gwalior,State = Madhya Pradesh
+1136,Sunishka,EE,17282,3 year,District = Hamirpur,State = Himachal Pradesh
+1137,Prashant Kumar,EE,17284,3 year,District = Siwan,State = Bihar
+1138,Prashant Verma,EE,17285,3 year,District = South West Delhi,State = Delhi
+1139,Pranjal Bhargava,EE,17287,3 year,District = Agra,State = Uttar Pradesh
+1140,Vivek Kumar,EE,17288,3 year,District = Rohtas,State = Bihar
+1141,Vinayak Saran,EE,17289,3 year,District = Mirzapur,State = Uttar Pradesh
+1142,Priya Kumari,EE,17290,3 year,District = Kota,State = Rajasthan
+1143,Jatin Aery,EE,17291,3 year,District = Una,State = Himachal Pradesh
+1144,Om Narayan,EE,17292,3 year,District = Ballia,State = Uttar Pradesh
+1145,Atul Mothia,CHE,17701,3 year,District = Kangra,State = Himachal Pradesh
+1146,Shubham Chauhan,CHE,17703,3 year,District = Kangra,State = Himachal Pradesh
+1147,Neha Sharma,CHE,17704,3 year,District = Kangra,State = Himachal Pradesh
+1148,Mayank Sharma,CHE,17706,3 year,District = Kullu,State = Himachal Pradesh
+1149,Aman Rana,CHE,17707,3 year,District = Kangra,State = Himachal Pradesh
+1150,Nidhi Verma,CHE,17708,3 year,District = Rupnagar,State = Punjab
+1151,Abhinav Koundal,CHE,17709,3 year,District = Kangra,State = Himachal Pradesh
+1152,Keshav Kumar Mishra,CHE,17711,3 year,District = Solan,State = Himachal Pradesh
+1153,Rahul Gupta,CHE,17712,3 year,District = Mandi,State = Himachal Pradesh
+1154,Simran Bansal,CHE,17713,3 year,District = Sirmaur,State = Himachal Pradesh
+1155,Abhishek Sharma,CHE,17714,3 year,District = Hamirpur,State = Himachal Pradesh
+1156,Sarthak Sood,CHE,17716,3 year,District = Kangra,State = Himachal Pradesh
+1157,Mehak Sharma,CHE,17717,3 year,District = Una,State = Himachal Pradesh
+1158,Prakriti Sapaiya,CHE,17718,3 year,District = Kangra,State = Himachal Pradesh
+1159,Kanika Kapoor,CHE,17719,3 year,District = Chamba,State = Himachal Pradesh
+1160,Alok Mishra,CHE,17721,3 year,District = Varanasi,State = Uttar Pradesh
+1161,Aryan Sahu,CHE,17722,3 year,District = Chhindwara,State = Madhya Pradesh
+1162,Surabhi,CHE,17723,3 year,District = Jhansi,State = Uttar Pradesh
+1163,Shashank Mahich,CHE,17724,3 year,District = Sikar,State = Rajasthan
+1164,Praveen Kumar,CHE,17725,3 year,District = Ghazipur,State = Uttar Pradesh
+1165,Saksham Bhardwaj,CHE,17726,3 year,District = Una,State = Himachal Pradesh
+1166,Mudit Sharma,CHE,17728,3 year,District = Mandi,State = Himachal Pradesh
+1167,Shashwat Singh,CHE,17730,3 year,District = Solan,State = Himachal Pradesh
+1168,Devinder,CHE,17731,3 year,District = Sirmaur,State = Himachal Pradesh
+1169,Abhishek Kumar,CHE,17732,3 year,District = Gorakhpur,State = Uttar Pradesh
+1170,Nitish Sharma,CHE,17733,3 year,District = Kangra,State = Himachal Pradesh
+1171,Arshiya Kashyap,CHE,17734,3 year,District = Solan,State = Himachal Pradesh
+1172,Prajwal Kaith,CHE,17735,3 year,District = Shimla,State = Himachal Pradesh
+1173,Rashi Sharma,CHE,17736,3 year,District = Sirmaur,State = Himachal Pradesh
+1174,Shivam Singh Tomar,CHE,17738,3 year,District = Gwalior,State = Madhya Pradesh
+1175,Ajay Ghildiyal,CHE,17739,3 year,District = Dehradun,State = Uttarakhand
+1176,Varun Kumar Baliyan,CHE,17740,3 year,District = Muzaffarnagar,State = Uttar Pradesh
+1177,Ravi Kant,CHE,17741,3 year,District = Gaya,State = Bihar
+1178,Himanshu Kaundal,CHE,17743,3 year,District = Solan,State = Himachal Pradesh
+1179,Neeraj Kumar,CHE,17744,3 year,District = Prayagraj,State = Uttar Pradesh
+1180,Aniket Pathania,CHE,17745,3 year,District = Chamba,State = Himachal Pradesh
+1181,Somesh Kumar,CHE,17747,3 year,District = Agra,State = Uttar Pradesh
+1182,Shubham Patel,CHE,17748,3 year,District = Fatehpur,State = Uttar Pradesh
+1183,Akshit,CHE,17749,3 year,District = Shimla,State = Himachal Pradesh
+1184,Shubham Gupta,CHE,17750,3 year,District = Kasganj,State = Uttar Pradesh
+1185,Rishi Kumar,CHE,17751,3 year,District = Agra,State = Uttar Pradesh
+1186,Desamsetty Tejaswi Maneesh,CHE,17752,3 year,District = West Godavari,State = Andhra Pradesh
+1187,Tushar Sharma,CHE,17753,3 year,District = Bulandshahr,State = Uttar Pradesh
+1188,Rahul Raj,CHE,17755,3 year,District = Madhubani,State = Bihar
+1189,Shivani,CHE,17756,3 year,District = Hapur,State = Uttar Pradesh
+1190,Jitten Jasw,CHE,17757,3 year,District = Hamirpur,State = Himachal Pradesh
+1191,Nikhil Ojha,CHE,17759,3 year,District = Neemuch,State = Madhya Pradesh
+1192,Abhimanyu Sharma,CHE,17804,3 year,District = Shimla,State = Himachal Pradesh
+1193,Abhishek Pal,CHE,17819,3 year,District = Bareilly,State = Uttar Pradesh
+1194,Sudhanshu Soni,CHE,17822,3 year,District = Churu,State = Rajasthan
+1195,Jayant Singh Chandel,ME,17301,3 year,District = Chamba,State = Himachal Pradesh
+1196,Saksham Verma,ME,17303,3 year,District = Kangra,State = Himachal Pradesh
+1197,Rupesh Thakur,ME,17304,3 year,District = Sirmaur,State = Himachal Pradesh
+1198,Shubhang Dutta,ME,17305,3 year,District = Shimla,State = Himachal Pradesh
+1199,Nishant Sharma,ME,17306,3 year,District = Mandi,State = Himachal Pradesh
+1200,Yogesh Choudhary,ME,17307,3 year,District = Jaipur,State = Rajasthan
+1201,Vikrant Sharma,ME,17308,3 year,District = Kangra,State = Himachal Pradesh
+1202,Aryan Sharma,ME,17309,3 year,District = Bilaspur,State = Himachal Pradesh
+1203,Nitin Gora,ME,17311,3 year,District = Kangra,State = Himachal Pradesh
+1204,Ashutosh,ME,17312,3 year,District = Hamirpur,State = Himachal Pradesh
+1205,Dikshit Choudhary,ME,17313,3 year,District = Kangra,State = Himachal Pradesh
+1206,Abhay Attri,ME,17315,3 year,District = Shimla,State = Himachal Pradesh
+1207,Shashikant,ME,17316,3 year,District = Ayodhya,State = Uttar Pradesh
+1208,Mukul Vashist,ME,17317,3 year,District = Shimla,State = Himachal Pradesh
+1209,Ashu Saini,ME,17319,3 year,District = Saharanpur,State = Uttar Pradesh
+1210,Gourav Gour,ME,17321,3 year,District = Nagaur,State = Rajasthan
+1211,Adisha Gupta,ME,17322,3 year,District = Kangra,State = Himachal Pradesh
+1212,Rizul Sood,ME,17323,3 year,District = Kangra,State = Himachal Pradesh
+1213,Ankit Dhiman,ME,17324,3 year,District = Hamirpur,State = Himachal Pradesh
+1214,Eshaan Arora,ME,17325,3 year,District = Ghaziabad,State = Uttar Pradesh
+1215,Karan Chaudhary,ME,17326,3 year,District = Kangra,State = Himachal Pradesh
+1216,Shubham Jaryal,ME,17327,3 year,District = Chamba,State = Himachal Pradesh
+1217,Aneesh Dhiman,ME,17328,3 year,District = Kangra,State = Himachal Pradesh
+1218,Kevin Binz Varghese,ME,17329,3 year,District = Alappuzha,State = Kerala
+1219,Jayant Raghav,ME,17330,3 year,District = Shimla,State = Himachal Pradesh
+1220,Vivek Kumar,ME,17332,3 year,District = Saran,State = Bihar
+1221,Gulshan,ME,17333,3 year,District = Farrukhabad,State = Uttar Pradesh
+1222,Akash Sharma,ME,17334,3 year,District = Faridabad,State = Haryana
+1223,Suchita Pandey,ME,17335,3 year,District = Sirmaur,State = Himachal Pradesh
+1224,Sumit Negi,ME,17336,3 year,District = Kinnaur,State = Himachal Pradesh
+1225,Rajneesh Sharma,ME,17337,3 year,District = Bilaspur,State = Himachal Pradesh
+1226,Lakshay Khidtta,ME,17338,3 year,District = Shimla,State = Himachal Pradesh
+1227,Rohit Dogra,ME,17339,3 year,District = Hamirpur,State = Himachal Pradesh
+1228,Prince Pratap Singh,ME,17340,3 year,District = Jhansi,State = Uttar Pradesh
+1229,Sagar Singh,ME,17341,3 year,District = Jhansi,State = Uttar Pradesh
+1230,Amol Bobade,ME,17342,3 year,District = Indore,State = Madhya Pradesh
+1231,Shivansh Sharma,ME,17344,3 year,District = Mandi,State = Himachal Pradesh
+1232,Ayush Tiwari,ME,17345,3 year,District = Prayagraj,State = Uttar Pradesh
+1233,Kumar Bhivesh Sharma,ME,17347,3 year,District = S.A.S. Nagar,State = Punjab
+1234,Bhavya Uniyal,ME,17348,3 year,District = Solan,State = Himachal Pradesh
+1235,Kushagra Porwal,ME,17349,3 year,District = Prayagraj,State = Uttar Pradesh
+1236,Chinmay Mathur,ME,17350,3 year,District = Jaipur,State = Rajasthan
+1237,Ritik Dutt,ME,17351,3 year,District = Hamirpur,State = Himachal Pradesh
+1238,Pramod Kumar,ME,17352,3 year,District = Kinnaur,State = Himachal Pradesh
+1239,Dev Agrawal,ME,17353,3 year,District = North Goa,State = Goa
+1240,Mayank Goyal,ME,17355,3 year,District = Sawai Madhopur,State = Rajasthan
+1241,Kamal Kishor,ME,17356,3 year,District = Jaisalmer,State = Rajasthan
+1242,Mohit Kriplani,ME,17357,3 year,District = Jaipur,State = Rajasthan
+1243,Nagesh Singh,ME,17358,3 year,District = Kangra,State = Himachal Pradesh
+1244,Ankit Kumar,ME,17360,3 year,District = Lucknow,State = Uttar Pradesh
+1245,Suryansh Goel,ME,17361,3 year,District = Hapur,State = Uttar Pradesh
+1246,Mayank Kumar Singh,ME,17362,3 year,District = Jaipur,State = Rajasthan
+1247,Ankush Dhamija,ME,17363,3 year,District = Ganganagar,State = Rajasthan
+1248,Ajay Singh,ME,17364,3 year,District = Agra,State = Uttar Pradesh
+1249,Himanshu Diwakar,ME,17365,3 year,District = Dehradun,State = Uttarakhand
+1250,Prakhar Parashar,ME,17366,3 year,District = Jodhpur,State = Rajasthan
+1251,Amit Kumar Nirala,ME,17367,3 year,District = Solan,State = Himachal Pradesh
+1252,Pushkar Sharma,ME,17370,3 year,District = Una,State = Himachal Pradesh
+1253,Anurag Srivastava,ME,17371,3 year,District = Mumbai,State = Maharashtra
+1254,Ayushmaan,ME,17372,3 year,District = Lucknow,State = Uttar Pradesh
+1255,Ayush Chamola,ME,17373,3 year,District = Panchkula,State = Haryana
+1256,Sukhvinder Singh,ME,17375,3 year,District = Una,State = Himachal Pradesh
+1257,Shubham Chaurasia,ME,17376,3 year,District = Maharajganj,State = Uttar Pradesh
+1258,Divyanshu Kumar,ME,17377,3 year,District = Faridabad,State = Haryana
+1259,Shiv Agarwal,ME,17379,3 year,District = Jaipur,State = Rajasthan
+1260,Siddhant Mishra,ME,17380,3 year,District = Kushinagar,State = Uttar Pradesh
+1261,Suryanshu Chahande,ME,17382,3 year,District = Nagpur,State = Maharashtra
+1262,Suyash Tripathi,ME,17383,3 year,District = Indore,State = Madhya Pradesh
+1263,Mohd Aftab,ME,17384,3 year,District = Kannauj,State = Uttar Pradesh
+1264,Dushyant Kumar Gupta,ME,17385,3 year,District = Alwar,State = Rajasthan
+1265,Sunil Kumar,ME,17386,3 year,District = Sikar,State = Rajasthan
+1266,Aditya Thakur,ME,17387,3 year,District = Una,State = Himachal Pradesh
+1267,Pyla Sundhara Rao,ME,17388,3 year,District = Srikakulam,State = Andhra Pradesh
+1268,Gaurav Bijalwan,ME,17389,3 year,District = Nainital,State = Uttarakhand
+1269,Ashish Verma,ME,17392,3 year,District = Churu,State = Rajasthan
+1270,Rahul Vig,ME,17393,3 year,District = Ludhiana,State = Punjab
+1271,Pallav Priyam,CE,17102,3 year,District = Ghaziabad,State = Uttar Pradesh
+1272,Rohit Sharma,CE,17105,3 year,District = Hamirpur,State = Himachal Pradesh
+1273,Narender Kumar,CE,17106,3 year,District = Shimla,State = Himachal Pradesh
+1274,Abhinav Bhardwaj,CE,17107,3 year,District = Hamirpur,State = Himachal Pradesh
+1275,Kunal,CE,17109,3 year,District = Shimla,State = Himachal Pradesh
+1276,Varun Chauhan,CE,17110,3 year,District = Shimla,State = Himachal Pradesh
+1277,Anuj,CE,17111,3 year,District = Hamirpur,State = Himachal Pradesh
+1278,Akhil Sharma,CE,17112,3 year,District = Kangra,State = Himachal Pradesh
+1279,Anubhav Bandan,CE,17114,3 year,District = Shimla,State = Himachal Pradesh
+1280,Anchal Bharti,CE,17115,3 year,District = Kangra,State = Himachal Pradesh
+1281,Ikshit Sharma,CE,17116,3 year,District = Shimla,State = Himachal Pradesh
+1282,Kartik Jaswal,CE,17117,3 year,District = Bilaspur,State = Himachal Pradesh
+1283,Pushpendra Singh Kawant,CE,17119,3 year,District = Alwar,State = Rajasthan
+1284,Pragay Shourya Moudgil,CE,17120,3 year,District = Shimla,State = Himachal Pradesh
+1285,Prashant Chanchal,CE,17121,3 year,District = Mandi,State = Himachal Pradesh
+1286,Abhishek Chanchal,CE,17122,3 year,District = Mandi,State = Himachal Pradesh
+1287,Aryan,CE,17123,3 year,District = Kangra,State = Himachal Pradesh
+1288,Yogesh Verma,CE,17126,3 year,District = Mandi,State = Himachal Pradesh
+1289,Virender Singh,CE,17127,3 year,District = Mandi,State = Himachal Pradesh
+1290,Princepreet Kaur Kairay,CE,17128,3 year,District = Ludhiana,State = Punjab
+1291,Vedant Sharma,CE,17129,3 year,District = Hamirpur,State = Himachal Pradesh
+1292,Shivank Thakur,CE,17131,3 year,District = Bilaspur,State = Himachal Pradesh
+1293,Ramavatar Kumawat,CE,17133,3 year,District = Jaipur,State = Rajasthan
+1294,Aditya Mehta,CE,17134,3 year,District = Chamba,State = Himachal Pradesh
+1295,Ritesh Chandel,CE,17135,3 year,District = Kangra,State = Himachal Pradesh
+1296,Bhavesh Sharma,CE,17136,3 year,District = Hamirpur,State = Himachal Pradesh
+1297,Punyakriti Kaundal,CE,17138,3 year,District = Mandi,State = Himachal Pradesh
+1298,Rahul Rana,CE,17139,3 year,District = Bilaspur,State = Himachal Pradesh
+1299,Deekshant Sharma,CE,17140,3 year,District = Bilaspur,State = Himachal Pradesh
+1300,Kapil Thakur,CE,17141,3 year,District = Kullu,State = Himachal Pradesh
+1301,Shubham Sharma,CE,17143,3 year,District = Hamirpur,State = Himachal Pradesh
+1302,Utkarsh Mishra,CE,17144,3 year,District = Sultanpur,State = Uttar Pradesh
+1303,Hemant Kumar,CE,17148,3 year,District = Jhunjhunu,State = Rajasthan
+1304,Abhishek,CE,17149,3 year,District = Azamgarh,State = Uttar Pradesh
+1305,Yash Tiwari,CE,17150,3 year,District = Varanasi,State = Uttar Pradesh
+1306,Radheshyam Bishnoi,CE,17151,3 year,District = Bikaner,State = Rajasthan
+1307,Rashmi Thakur,CE,17152,3 year,District = Mandi,State = Himachal Pradesh
+1308,Deepak Kumar Bansal,CE,17153,3 year,District = Dausa,State = Rajasthan
+1309,Priyanka Kumar,CE,17154,3 year,District = North East Delhi,State = Delhi
+1310,Anurag Meena,CE,17156,3 year,District = East Delhi,State = Delhi
+1311,Anuruddh Singh,CE,17157,3 year,District = Jalaun,State = Uttar Pradesh
+1312,Suprgay Rana,CE,17158,3 year,District = Chamba,State = Himachal Pradesh
+1313,Dev Sagar,CE,17159,3 year,District = Gorakhpur,State = Uttar Pradesh
+1314,Jayant Bhaskar,CE,17162,3 year,District = Sikar,State = Rajasthan
+1315,Ankit Kumar,CE,17163,3 year,District = Prayagraj,State = Uttar Pradesh
+1316,Akshat Samariya,CE,17164,3 year,District = Jaipur,State = Rajasthan
+1317,Dinesh Kumar,CE,17165,3 year,District = Una,State = Himachal Pradesh
+1318,Abhiraj Singh Rathore,CE,17167,3 year,District = Dungarpur,State = Rajasthan
+1319,Kapil Suwalka,CE,17168,3 year,District = Kota,State = Rajasthan
+1320,Amogh Raghav,CE,17169,3 year,District = Kathua,State = Jammu and Kashmir
+1321,Shivam Dussawar,CE,17170,3 year,District = Chandrapur,State = Maharashtra
+1322,Sarthak Mishra,CE,17176,3 year,District = South East Delhi,State = Delhi
+1323,Ankit Sharma,CE,17177,3 year,District = Bilaspur,State = Himachal Pradesh
+1324,Shubham,CE,17179,3 year,District = Bilaspur,State = Himachal Pradesh
+1325,Ayush Tiwari,CE,17181,3 year,District = Ambedkar Nagar,State = Uttar Pradesh
+1326,Vishal Thakur,CE,17183,3 year,District = Mandi,State = Himachal Pradesh
+1327,Yashwant Kumar Mahawar,CE,17185,3 year,District = Tonk,State = Rajasthan
+1328,Ashish Parmar,CE,17189,3 year,District = Dholpur,State = Rajasthan
+1329,Achyut Sharma,CE,17191,3 year,District = Kangra,State = Himachal Pradesh
+1330,Sachin Shukla,CE,17586,3 year,District = Lucknow,State = Uttar Pradesh
+1331,Nandita Shah,AR,17601,3 year,District = Kangra,State = Himachal Pradesh
+1332,Dhananjay Sood,AR,17602,3 year,District = Shimla,State = Himachal Pradesh
+1333,Mansi Kapoor,AR,17603,3 year,District = Kangra,State = Himachal Pradesh
+1334,Gursharan Singh,AR,17604,3 year,District = Una,State = Himachal Pradesh
+1335,Anshita Thakur,AR,17607,3 year,District = Hamirpur,State = Himachal Pradesh
+1336,Shreya Sheelup,AR,17608,3 year,District = Paschim Bardhaman,State = West Bengal
+1337,Tarun Kashav,AR,17610,3 year,District = Hamirpur,State = Himachal Pradesh
+1338,Manish Jangid,AR,17612,3 year,District = Sirmaur,State = Himachal Pradesh
+1339,Eshita Jain,AR,17613,3 year,District = Solan,State = Himachal Pradesh
+1340,Pankak Prashar,AR,17614,3 year,District = Kangra,State = Himachal Pradesh
+1341,Manish Sood,AR,17615,3 year,District = Mandi,State = Himachal Pradesh
+1342,Avantika Pareek,AR,17617,3 year,District = Faridabad,State = Haryana
+1343,Mrinal,AR,17618,3 year,District = Kangra,State = Himachal Pradesh
+1344,Dhruv Sharma,AR,17619,3 year,District = Shimla,State = Himachal Pradesh
+1345,Mohit Thakur,AR,17620,3 year,District = Kullu,State = Himachal Pradesh
+1346,Himani Bhadviya,AR,17621,3 year,District = Udaipur,State = Rajasthan
+1347,Mansi Tanjila,AR,17622,3 year,District = Shimla,State = Himachal Pradesh
+1348,Prachi Garg,AR,17623,3 year,District = Bathinda,State = Punjab
+1349,Ritvik Kapoor,AR,17624,3 year,District = Mandi,State = Himachal Pradesh
+1350,Sahil Aadarsh,AR,17625,3 year,District = Mandi,State = Himachal Pradesh
+1351,Gaurav Yadav,AR,17626,3 year,District = Firozabad,State = Uttar Pradesh
+1352,Chitransh Anand,AR,17627,3 year,District = South Delhi,State = Delhi
+1353,Anant Yadav,AR,17628,3 year,District = Farrukhabad,State = Uttar Pradesh
+1354,Nishant Kumar,AR,17631,3 year,District = Lucknow,State = Uttar Pradesh
+1355,Shivam Shishodia,AR,17632,3 year,District = Bulandshahr,State = Uttar Pradesh
+1356,Shubham Kapoor,AR,17633,3 year,District = North West Delhi,State = Delhi
+1357,Deepakshi Koundal,AR,17634,3 year,District = Kangra,State = Himachal Pradesh
+1358,Shriya Dwivedi,AR,17635,3 year,District = Bhopal,State = Madhya Pradesh
+1359,Yamini Harimohan,AR,17636,3 year,District = Coimbatore,State = Tamil Nadu
+1360,Ashwathi A,AR,17637,3 year,District = Erode,State = Tamil Nadu
+1361,Siddharth Verma,AR,17638,3 year,District = Jalaun,State = Uttar Pradesh
+1362,Naga Venkatesh,AR,17639,3 year,District = Kurnool,State = Andhra Pradesh
+1363,Shubhangi Seth,AR,17640,3 year,District = South West Delhi,State = Delhi
+1364,Kona Jahnavi,AR,17642,3 year,District = Krishna,State = Andhra Pradesh
+1365,Tanvi Mahajan,CSE-DD,17MI504,3 year,District = Shimla,State = Himachal Pradesh
+1366,Syed Mohd Kashif,CSE-DD,17MI505,3 year,District = Sirmaur,State = Himachal Pradesh
+1367,Vinaya Kumar,CSE-DD,17MI506,3 year,District = Lucknow,State = Uttar Pradesh
+1368,Vipin Yadav,CSE-DD,17MI508,3 year,District = South Delhi,State = Delhi
+1369,Archit Dhiman,CSE-DD,17MI509,3 year,District = Mandi,State = Himachal Pradesh
+1370,Gaurav Choudhary,CSE-DD,17MI510,3 year,District = Hanumangarh,State = Rajasthan
+1371,Kartik Koundal,CSE-DD,17MI512,3 year,District = Kangra,State = Himachal Pradesh
+1372,Kshitiz Kumar,CSE-DD,17MI513,3 year,District = Kangra,State = Himachal Pradesh
+1373,Vineet Sharma,CSE-DD,17MI514,3 year,District = Gurugram,State = Haryana
+1374,Manick,CSE-DD,17MI515,3 year,District = Kangra,State = Himachal Pradesh
+1375,Srajika Gupta,CSE-DD,17MI516,3 year,District = Kanpur Nagar,State = Uttar Pradesh
+1376,Gaurav,CSE-DD,17MI517,3 year,District = Mandi,State = Himachal Pradesh
+1377,Krishan Kumar,CSE-DD,17MI518,3 year,District = Una,State = Himachal Pradesh
+1378,Sarthak Sharma,CSE-DD,17MI520,3 year,District = Bilaspur,State = Himachal Pradesh
+1379,Mukesh Kumar,CSE-DD,17MI528,3 year,District = Hanumangarh,State = Rajasthan
+1380,Komal Negi,CSE-DD,17MI530,3 year,District = Kinnaur,State = Himachal Pradesh
+1381,Vishal Parmar,CSE-DD,17MI535,3 year,District = Ghaziabad,State = Uttar Pradesh
+1382,Siddharth Bhalla,CSE-DD,17MI536,3 year,District = Solan,State = Himachal Pradesh
+1383,Manoj Kumar,CSE-DD,17MI537,3 year,District = Mathura,State = Uttar Pradesh
+1384,Ashish Dhiman,CSE-DD,17MI538,3 year,District = Bilaspur,State = Himachal Pradesh
+1385,Amit Kumar,CSE-DD,17MI539,3 year,District = Mandi,State = Himachal Pradesh
+1386,Dev Kant Kumar Chouhan,CSE-DD,17MI541,3 year,District = Muzaffarnagar,State = Uttar Pradesh
+1387,Nitika Dhiman,CSE-DD,17MI542,3 year,District = Mandi,State = Himachal Pradesh
+1388,Priya Kumari,CSE-DD,17MI543,3 year,District = Alwar,State = Rajasthan
+1389,Divyanshu,CSE-DD,17MI547,3 year,District = Rohtak,State = Haryana
+1390,Namisha Goyal,CSE-DD,17MI550,3 year,District = Moga,State = Punjab
+1391,Kartikey Tewari,CSE-DD,17MI551,3 year,District = Tehri Garhwal,State = Uttarakhand
+1392,Rishabh Katna,CSE-DD,17MI552,3 year,District = Hamirpur,State = Himachal Pradesh
+1393,Arvind Jamwal,CSE-DD,17MI553,3 year,District = Mandi,State = Himachal Pradesh
+1394,Aman Pratap Singh,CSE-DD,17MI554,3 year,District = Gwalior,State = Madhya Pradesh
+1395,Ramlal Suthar,CSE-DD,17MI556,3 year,District = Churu,State = Rajasthan
+1396,Parul Bansal,CSE-DD,17MI559,3 year,District = Yamunanagar,State = Haryana
+1397,Daniyaal Khan,CSE-DD,17MI561,3 year,District = Aurangabad,State = Maharashtra
+1398,Umesh Thakur,ECE-DD,17MI401,3 year,District = Shimla,State = Himachal Pradesh
+1399,Shuchi Shrava Sharma,ECE-DD,17MI402,3 year,District = Shimla,State = Himachal Pradesh
+1400,Neetish Dogra,ECE-DD,17MI403,3 year,District = Kangra,State = Himachal Pradesh
+1401,Ayush Gupta,ECE-DD,17MI404,3 year,District = Shimla,State = Himachal Pradesh
+1402,Tapesh Thakur,ECE-DD,17MI406,3 year,District = Shimla,State = Himachal Pradesh
+1403,Kunal Chaudhary,ECE-DD,17MI407,3 year,District = Mandi,State = Himachal Pradesh
+1404,Manikya Verma,ECE-DD,17MI408,3 year,District = Solan,State = Himachal Pradesh
+1405,Shavinder Kumar,ECE-DD,17MI409,3 year,District = Mandi,State = Himachal Pradesh
+1406,Vibhash Choudhary,ECE-DD,17MI410,3 year,District = Kangra,State = Himachal Pradesh
+1407,Jyoti Kashyap,ECE-DD,17MI411,3 year,District = Kullu,State = Himachal Pradesh
+1408,Abhimanyu,ECE-DD,17MI412,3 year,District = Una,State = Himachal Pradesh
+1409,Agam Dang,ECE-DD,17MI413,3 year,District = Kullu,State = Himachal Pradesh
+1410,Pranav Kumar,ECE-DD,17MI414,3 year,District = Jaipur,State = Rajasthan
+1411,Diksha,ECE-DD,17MI415,3 year,District = Una,State = Himachal Pradesh
+1412,Deep Ranjan,ECE-DD,17MI416,3 year,District = Alwar,State = Rajasthan
+1413,Jaismin Thakur,ECE-DD,17MI417,3 year,District = Hamirpur,State = Himachal Pradesh
+1414,Harit Yadav,ECE-DD,17MI418,3 year,District = Alwar,State = Rajasthan
+1415,Jaiprakash Maravi,ECE-DD,17MI420,3 year,District = Bilaspur,State = Chhattisgarh
+1416,Vayun K Soni,ECE-DD,17MI421,3 year,District = Kangra,State = Himachal Pradesh
+1417,Ayushi,ECE-DD,17MI422,3 year,District = Sirsa,State = Haryana
+1418,Nivali Yadav,ECE-DD,17MI424,3 year,District = Vadodara,State = Gujarat
+1419,Ishani Jaswal,ECE-DD,17MI425,3 year,District = Una,State = Himachal Pradesh
+1420,Rajan Kumar,ECE-DD,17MI427,3 year,District = Chandauli,State = Uttar Pradesh
+1421,Sonia,ECE-DD,17MI428,3 year,District = Mandi,State = Himachal Pradesh
+1422,Praroop Trigunayat,ECE-DD,17MI429,3 year,District = Saharanpur,State = Uttar Pradesh
+1423,Prahalad Tomar,ECE-DD,17MI430,3 year,District = Gwalior,State = Madhya Pradesh
+1424,Aseem Kalta,ECE-DD,17MI431,3 year,District = Solan,State = Himachal Pradesh
+1425,Alisha Mehta,ECE-DD,17MI432,3 year,District = Kinnaur,State = Himachal Pradesh
+1426,Taarush Vashisht,ECE-DD,17MI433,3 year,District = Solan,State = Himachal Pradesh
+1427,Rahul Verma,ECE-DD,17MI434,3 year,District = Jalaun,State = Uttar Pradesh
+1428,Naveen Verma,ECE-DD,17MI435,3 year,District = Shimla,State = Himachal Pradesh
+1429,Mayank Shahria,ECE-DD,17MI436,3 year,District = Shimla,State = Himachal Pradesh
+1430,Prayas Thakur,ECE-DD,17MI437,3 year,District = Solan,State = Himachal Pradesh
+1431,Sunil Kumar,ECE-DD,17MI438,3 year,District = Chamba,State = Himachal Pradesh
+1432,Rahul Raj,ECE-DD,17MI439,3 year,District = East Champaran,State = Bihar
+1433,Shubham Priyadarshi,ECE-DD,17MI440,3 year,District = Begusarai,State = Bihar
+1434,Kunal Agrawal,ECE-DD,17MI441,3 year,District = Mahasamund,State = Chhattisgarh
+1435,Akanksha Poonia,ECE-DD,17MI442,3 year,District = Jhunjhunu,State = Rajasthan
+1436,Praveen Tiwari,ECE-DD,17MI444,3 year,District = Deoria,State = Uttar Pradesh
+1437,Vaibhav Kumar Singh,ECE-DD,17MI445,3 year,District = Meerut,State = Uttar Pradesh
+1438,Divyanshu Bhaik,ECE-DD,17MI446,3 year,District = Shimla,State = Himachal Pradesh
+1439,Harshita Singh,ECE-DD,17MI448,3 year,District = Solan,State = Himachal Pradesh
+1440,Vicky Kumar Soni,ECE-DD,17MI449,3 year,District = Gopalganj,State = Bihar
+1441,Prashant Yadav,ECE-DD,17MI450,3 year,District = Lucknow,State = Uttar Pradesh
+1442,Aditya Kumar,ECE-DD,17MI452,3 year,District = Jaipur,State = Rajasthan
+1443,Vaibhav Deep,ECE-DD,17MI453,3 year,District = Mathura,State = Uttar Pradesh
+1444,Rohini Raj,ECE-DD,17MI454,3 year,District = Patna,State = Bihar
+1445,Shivangi Bagherwal,ECE-DD,17MI455,3 year,District = Bhilwara,State = Rajasthan
+1446,Trilok Malav,ECE-DD,17MI456,3 year,District = Kota,State = Rajasthan
+1447,Ankur,ECE-DD,17MI457,3 year,District = Rohtak,State = Haryana
+1448,Vishal Sharma,ECE-DD,17MI458,3 year,District = Jhunjhunu,State = Rajasthan
+1449,Abhishek,ECE-DD,17MI459,3 year,District = Rewari,State = Haryana
+1450,Aman Chhabra,ECE-DD,17MI460,3 year,District = Hanumangarh,State = Rajasthan
+1451,Ankush Kumar,CSE,16501,4 year,District = Kullu,State = Himachal Pradesh
+1452,Abhinav Sharma,CSE,16502,4 year,District = Kangra,State = Himachal Pradesh
+1453,Muskan,CSE,16503,4 year,District = Kangra,State = Himachal Pradesh
+1454,Krishna Mehra,CSE,16504,4 year,District = Solan,State = Himachal Pradesh
+1455,Pankaj,CSE,16505,4 year,District = Mandi,State = Himachal Pradesh
+1456,Sanya Dhingra,CSE,16507,4 year,District = Kullu,State = Himachal Pradesh
+1457,Pooja Bhatnagar,CSE,16508,4 year,District = Sirmaur,State = Himachal Pradesh
+1458,Vinay Sharma,CSE,16509,4 year,District = Shimla,State = Himachal Pradesh
+1459,Ram Kishan Choudhary,CSE,16510,4 year,District = Sikar,State = Rajasthan
+1460,Sandeep Kumar,CSE,16511,4 year,District = Ghaziabad,State = Uttar Pradesh
+1461,Ashish Choudhary,CSE,16513,4 year,District = Kangra,State = Himachal Pradesh
+1462,Nitesh Thakur,CSE,16514,4 year,District = Mandi,State = Himachal Pradesh
+1463,Deeksha,CSE,16515,4 year,District = Bilaspur,State = Himachal Pradesh
+1464,Rohan Shanavas,CSE,16516,4 year,District = Thiruvananthapuram,State = Kerala
+1465,Ram Babu,CSE,16518,4 year,District = Darbhanga,State = Bihar
+1466,Ranjeet,CSE,16520,4 year,District = Kangra,State = Himachal Pradesh
+1467,Sakshi Sharma,CSE,16521,4 year,District = Mandi,State = Himachal Pradesh
+1468,Anshika,CSE,16522,4 year,District = Kangra,State = Himachal Pradesh
+1469,Rajat Chaudhary,CSE,16523,4 year,District = Kangra,State = Himachal Pradesh
+1470,Kumar Satyam Sagar,CSE,16524,4 year,District = Purnea,State = Bihar
+1471,Unmesh Kumar,CSE,16525,4 year,District = Kangra,State = Himachal Pradesh
+1472,Rupesh Sharma,CSE,16526,4 year,District = Solan,State = Himachal Pradesh
+1473,Anish Kaushal,CSE,16527,4 year,District = Kangra,State = Himachal Pradesh
+1474,Munish Daroch,CSE,16528,4 year,District = Kangra,State = Himachal Pradesh
+1475,Raghav Angra,CSE,16529,4 year,District = Una,State = Himachal Pradesh
+1476,Moksh Rai Chadha,CSE,16531,4 year,District = Hamirpur,State = Himachal Pradesh
+1477,Divyanshu Sharma,CSE,16532,4 year,District = Shimla,State = Himachal Pradesh
+1478,Shreyas Khadke,CSE,16534,4 year,District = Solapur,State = Maharashtra
+1479,Aarushi Sehgal,CSE,16535,4 year,District = Hamirpur,State = Himachal Pradesh
+1480,Varun Dhiman,CSE,16538,4 year,District = Shimla,State = Himachal Pradesh
+1481,Kanwar Avnish Singh,CSE,16539,4 year,District = Pathankot,State = Punjab
+1482,Aditya Narla,CSE,16540,4 year,District = Hyderabad,State = Telangana
+1483,Tatukuru Chaitanya,CSE,16541,4 year,District = Krishna,State = Andhra Pradesh
+1484,Ayush Dhiman,CSE,16542,4 year,District = Hamirpur,State = Himachal Pradesh
+1485,Gunjan Agrawal,CSE,16543,4 year,District = Mathura,State = Uttar Pradesh
+1486,Ritish Dhiman,CSE,16544,4 year,District = Kangra,State = Himachal Pradesh
+1487,Aryan Khandal,CSE,16545,4 year,District = Jaipur,State = Rajasthan
+1488,Satyam Chandra,CSE,16546,4 year,District = Patna,State = Bihar
+1489,Ekta Tyagi,CSE,16547,4 year,District = Meerut,State = Uttar Pradesh
+1490,Sachin,CSE,16548,4 year,District = Basti,State = Uttar Pradesh
+1491,Aditya Vasu Wazir,CSE,16549,4 year,District = Jammu,State = Jammu and Kashmir
+1492,Mansi Garg,CSE,16551,4 year,District = Sirmaur,State = Himachal Pradesh
+1493,Pavan Reddy Kommareddy,CSE,16552,4 year,District = Suryapeta,State = Telangana
+1494,Shubham Kumar Gupta,CSE,16553,4 year,District = Mau,State = Uttar Pradesh
+1495,Chandranshu Malhotra,CSE,16554,4 year,District = Raigarh,State = Maharashtra
+1496,Saurav Chandra,CSE,16555,4 year,District = Dausa,State = Rajasthan
+1497,Vansika Pareek,CSE,16556,4 year,District = Jaipur,State = Rajasthan
+1498,Bhavya Shah,CSE,16557,4 year,District = Thane,State = Maharashtra
+1499,Anshul Ameta,CSE,16558,4 year,District = Udaipur,State = Rajasthan
+1500,Ananyashree,CSE,16559,4 year,District = Shimla,State = Himachal Pradesh
+1501,Tarun Kumar Jaiswal,CSE,16560,4 year,District = Varanasi,State = Uttar Pradesh
+1502,Sunay Reddy Chimmula,CSE,16561,4 year,District = Medchal,State = Telangana
+1503,Shivam Chauhan,CSE,16562,4 year,District = Ambala,State = Haryana
+1504,Arun Karn,CSE,16563,4 year,District = Darbhanga,State = Bihar
+1505,Nishita Kaushal,CSE,16564,4 year,District = Hamirpur,State = Himachal Pradesh
+1506,Dinesh Singh Thakur,CSE,16565,4 year,District = Dehradun,State = Uttarakhand
+1507,Pranjal Bharti,CSE,16566,4 year,District = Bulandshahr,State = Uttar Pradesh
+1508,Sai Krishna Revanth Vuruma,CSE,16567,4 year,District = Guntur,State = Andhra Pradesh
+1509,Kartik Kumar,CSE,16568,4 year,District = Moradabad,State = Uttar Pradesh
+1510,Harshit Kumar,CSE,16570,4 year,District = Bharatpur,State = Rajasthan
+1511,Ashutosh Sharma,CSE,16571,4 year,District = Hamipur,State = Himachal Pradesh
+1512,Anshul Chauhan,CSE,16572,4 year,District = Hamirpur,State = Himachal Pradesh
+1513,Nidhi Singh,CSE,16573,4 year,District = Lucknow,State = Uttar Pradesh
+1514,Ankit Kumar,CSE,16574,4 year,District = Sheikhpura,State = Bihar
+1515,Tushar Keshav,CSE,16575,4 year,District = Jammu,State = Jammu and Kashmir
+1516,Arpan Samariya,CSE,16577,4 year,District = Dewas,State = Madhya Pradesh
+1517,Abhishek Kamal,CSE,16578,4 year,District = Sirmaur,State = Himachal Pradesh
+1518,Sulthan Sandeep,CSE,16579,4 year,District = Khammam,State = Telangana
+1519,Seema Devi,CSE,16581,4 year,District = Solan,State = Himachal Pradesh
+1520,Manish Kumar,CSE,16583,4 year,District = Samastipur,State = Bihar
+1521,Arti Dhiman,CSE,16584,4 year,District = Kangra,State = Himachal Pradesh
+1522,Tanya Anand,CSE,16585,4 year,District = Sheikhpura,State = Bihar
+1523,Shubham Poddar,CSE,16588,4 year,District = Sivasagar,State = Assam
+1524,Mohan Rao,CSE,16589,4 year,District = Khammam,State = Telangana
+1525,Minhaz Alam,CSE,16590,4 year,District = Kangra,State = Himachal Pradesh
+1526,Anurag Giddalur,CSE,16592,4 year,District = Hyderabad,State = Telangana
+1527,Devashish Sharma,AR,16601,4 year,District = Kota,State = Rajasthan
+1528,Riya Singh,AR,16602,4 year,District = Shimla,State = Himachal Pradesh
+1529,Arun Sankhyan,AR,16603,4 year,District = Bilaspur,State = Himachal Pradesh
+1530,Ishant,AR,16604,4 year,District = Hamirpur,State = Himachal Pradesh
+1531,Ananya Sharma,AR,16606,4 year,District = Kangra,State = Himachal Pradesh
+1532,Manish Thakur,AR,16607,4 year,District = Kullu,State = Himachal Pradesh
+1533,Niharika Barwal,AR,16608,4 year,District = Dehradun,State = Uttarakhand
+1534,Manish Agri,AR,16609,4 year,District = Nainital,State = Uttarakhand
+1535,Shivani Guleria,AR,16610,4 year,District = Mandi,State = Himachal Pradesh
+1536,Paras Dhillon,AR,16611,4 year,District = Mandi,State = Himachal Pradesh
+1537,Sanjib Kumar Sikder,AR,16612,4 year,District = North West Delhi,State = Delhi
+1538,Tanshul Saini,AR,16613,4 year,District = Kangra,State = Himachal Pradesh
+1539,Krit Sharma,AR,16614,4 year,District = Kangra,State = Himachal Pradesh
+1540,Anish Dhiman,AR,16615,4 year,District = S.A.S. Nagar,State = Punjab
+1541,Prince Mishra,AR,16616,4 year,District = Prayagraj,State = Uttar Pradesh
+1542,Jaydeep Ameta,AR,16618,4 year,District = Pratapgarh,State = Rajasthan
+1543,Ankit Bhardwaj,AR,16619,4 year,District = Mandi,State = Himachal Pradesh
+1544,Kriti Chauhan,AR,16620,4 year,District = Shimla,State = Himachal Pradesh
+1545,Shivam Sharma,AR,16621,4 year,District = Hamirpur,State = Himachal Pradesh
+1546,Ankit Kumar,AR,16622,4 year,District = North East Delhi,State = Delhi
+1547,Aman Heer,AR,16623,4 year,District = Kangra,State = Himachal Pradesh
+1548,Abhishek Sharma,AR,16624,4 year,District = Shimla,State = Himachal Pradesh
+1549,Adarsh Tanwar,AR,16625,4 year,District = Shimla,State = Himachal Pradesh
+1550,Aniksha Sharma,AR,16626,4 year,District = Kangra,State = Himachal Pradesh
+1551,Vikas Kushwaha,AR,16627,4 year,District = Solan,State = Himachal Pradesh
+1552,Shrey Asati,AR,16628,4 year,District = Hyderabad,State = Telangana
+1553,Simran Mattu,AR,16629,4 year,District = South Delhi,State = Delhi
+1554,Tarun Kumar,AR,16630,4 year,District = Bilaspur,State = Himachal Pradesh
+1555,Taba Tapu,AR,16631,4 year,District = Kangra,State = Himachal Pradesh
+1556,Divya Singh,AR,16632,4 year,District = Hisar,State = Haryana
+1557,Akshay Kumar,AR,16633,4 year,District = Una,State = Himachal Pradesh
+1558,Umesh Thakur,AR,16634,4 year,District = Shimla,State = Himachal Pradesh
+1559,Robin Singh Rana,CSE-DD,16MI501,4 year,District = Kangra,State = Himachal Pradesh
+1560,Naman Sharma,CSE-DD,16MI502,4 year,District = Solan,State = Himachal Pradesh
+1561,Pranjal Thakur,CSE-DD,16MI503,4 year,District = Mandi,State = Himachal Pradesh
+1562,Aarushi,CSE-DD,16MI504,4 year,District = Kangra,State = Himachal Pradesh
+1563,Kartik Saxena,CSE-DD,16MI505,4 year,District = Ghaziabad,State = Uttar Pradesh
+1564,Aman Pratap Singh,CSE-DD,16MI506,4 year,District = Bangalore,State = Karnataka
+1565,Jasmine Dua,CSE-DD,16MI507,4 year,District = North West Delhi,State = Delhi
+1566,Ankit Ghunavat,CSE-DD,16MI510,4 year,District = Sawai Madhopur,State = Rajasthan
+1567,Akanksha Gahalot,CSE-DD,16MI511,4 year,District = Saharanpur,State = Uttar Pradesh
+1568,Sachi Doegar,CSE-DD,16MI512,4 year,District = Solan,State = Himachal Pradesh
+1569,Aniket,CSE-DD,16MI513,4 year,District = Kangra,State = Himachal Pradesh
+1570,Saloni Laddha,CSE-DD,16MI515,4 year,District = Udaipur,State = Rajasthan
+1571,Nitin Dogra,CSE-DD,16MI516,4 year,District = Hamirpur,State = Himachal Pradesh
+1572,Sumit Kumar Daroch,CSE-DD,16MI518,4 year,District = Kangra,State = Himachal Pradesh
+1573,Rohit Bhatia,CSE-DD,16MI519,4 year,District = Hamirpur,State = Himachal Pradesh
+1574,Anil Chhipa,CSE-DD,16MI520,4 year,District = Bhilwara,State = Rajasthan
+1575,Akshita Doad,CSE-DD,16MI521,4 year,District = Hamirpur,State = Himachal Pradesh
+1576,Rishabh Jain,CSE-DD,16MI522,4 year,District = Sawai Madhopur,State = Rajasthan
+1577,Nageen Chand,CSE-DD,16MI523,4 year,District = Mandi,State = Himachal Pradesh
+1578,Manjeet Singh Rana,CSE-DD,16MI526,4 year,District = Una,State = Himachal Pradesh
+1579,Muskan,CSE-DD,16MI527,4 year,District = Mandi,State = Himachal Pradesh
+1580,Akash Soni,CSE-DD,16MI529,4 year,District = Churu,State = Rajasthan
+1581,Anshul Sharma,CSE-DD,16MI530,4 year,District = Kangra,State = Himachal Pradesh
+1582,Renuka Jangid,CSE-DD,16MI533,4 year,District = Nagaur,State = Rajasthan
+1583,Pradeep Singh Naruka,CSE-DD,16MI534,4 year,District = Jaipur,State = Rajasthan
+1584,Arunima Khunteta,CSE-DD,16MI535,4 year,District = Kota,State = Rajasthan
+1585,Nima Tshering Bhutia,CSE-DD,16MI537,4 year,District = Mangan,State = Sikkim
+1586,Reetesh Singh,CSE-DD,16MI539,4 year,District = Rewari,State = Haryana
+1587,Sourabh,CSE-DD,16MI540,4 year,District = Kullu,State = Himachal Pradesh
+1588,Nitish Kumar,CSE-DD,16MI541,4 year,District = Gurgaon,State = Haryana
+1589,Rajnish Kumar,CSE-DD,16MI542,4 year,District = Patna,State = Bihar
+1590,Paras Sharma,CSE-DD,16MI543,4 year,District = Shimla,State = Himachal Pradesh
+1591,Simpy Kumari,CSE-DD,16MI544,4 year,District = Hisar,State = Haryana
+1592,Sameer Mansuri,CSE-DD,16MI546,4 year,District = Ratlam,State = Madhya Pradesh
+1593,Aayush Sharma,CSE-DD,16MI547,4 year,District = Kullu,State = Himachal Pradesh
+1594,Saurabh Kumar,CSE-DD,16MI548,4 year,District = Samastipur,State = Bihar
+1595,Kapil,CSE-DD,16MI549,4 year,District = Shimla,State = Himachal Pradesh
+1596,Saumya Asati,CSE-DD,16MI550,4 year,District = Chhatarpur,State = Madhya Pradesh
+1597,Deepak Bharti,CSE-DD,16MI551,4 year,District = Gaya,State = Bihar
+1598,Krishna Odedara,CSE-DD,16MI552,4 year,District = Porbandar,State = Gujarat
+1599,Shreyash Indurkar,CSE-DD,16MI553,4 year,District = Chandrapur,State = Maharashtra
+1600,Tania Verma,CSE-DD,16MI554,4 year,District = Kangra,State = Himachal Pradesh
+1601,Uprant Choudhary,CSE-DD,16MI555,4 year,District = Solan,State = Himachal Pradesh
+1602,Aman Gupta,CSE-DD,16MI556,4 year,District = Jalaun,State = Uttar Pradesh
+1603,Karthik Vedantham,CSE-DD,16MI558,4 year,District = Guntur,State = Andhra Pradesh
